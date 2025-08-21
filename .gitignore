@@ -21,3 +21,8 @@ project/data/processed/*
 
 # OS
 .DS_Store
+# Ignore data contents, but keep placeholders
+project/data/raw/*
+project/data/processed/*
+!project/data/raw/.gitkeep
+!project/data/processed/.gitkeep
