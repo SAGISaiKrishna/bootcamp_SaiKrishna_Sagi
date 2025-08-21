@@ -7,3 +7,17 @@ __pycache__/
 
 # Ignore environment files
 .env
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~*
+
+# Data
+project/data/raw/*
+project/data/processed/*
+
+# OS
+.DS_Store
