@@ -1,0 +1,1001 @@
+order_id,timestamp,qty,price,revenue,category,city,sku,is_member,notes,daily_visits
+1,2024-01-01,1.0,,74.99,beauty,LA,F-Q909 ,False,return window open ,260
+2,2024-01-02,4.0,89.21,356.84,beauty,Miami,a-v472,False,  ,224
+3,2024-01-03,4.0,92.5,370.0,home,NYC,Q-Q972,False,,178
+4,2024-01-04,3.0,52.85,158.55,home,Chicago, r-p612 ,False,return window open ,158
+5,2024-01-05,3.0,54.43,163.29,beauty,Miami,u-m446 ,False,return window open ,217
+6,2024-01-06,5.0,80.99,404.95,grocery,Miami, Y-G100,False, first-time buyer ,198
+7,2024-01-07,1.0,34.87,34.87,apparel,LA,M-H649,False, VIP ,157
+8,2024-01-08,4.0,84.55,338.2,apparel,Dallas, V-T679,True,,213
+9,2024-01-09,2.0,51.94,103.88,beauty,NYC, S-B970,True,coupon used ,192
+10,2024-01-10,1.0,16.01,16.01,home,NYC,H-C745,False,coupon used ,216
+11,2024-01-11,3.0,11.85,35.55,grocery,LA, V-K126 ,True,,213
+12,2024-01-12,5.0,84.99,424.95,apparel,Miami, B-U609,False,,182
+13,2024-01-13,4.0,10.28,41.12,electronics,Dallas,p-r767 ,True, VIP ,219
+14,2024-01-14,4.0,31.66,126.64,beauty,Chicago, Y-P546,False,  ,185
+15,2024-01-15,4.0,36.74,146.96,apparel,LA,r-n485 ,True, first-time buyer ,187
+16,2024-01-16,4.0,21.43,85.72,apparel,NYC,y-c828 ,False,coupon used ,736
+17,2024-01-17,3.0,34.82,104.46,apparel,LA, b-i649,True, VIP ,234
+18,2024-01-18,1.0,75.56,75.56,grocery,NYC,N-C712,True,coupon used ,192
+19,2024-01-19,5.0,6.39,31.95,apparel,NYC, U-T517,True, first-time buyer ,241
+20,2024-01-20,3.0,83.58,250.74,beauty,Dallas,Q-T349,False,,254
+21,2024-01-21,3.0,86.37,259.11,grocery,NYC, W-G566,False, VIP ,178
+22,2024-01-22,2.0,40.36,80.72,electronics,NYC, M-H962,False,return window open ,112
+23,2024-01-23,1.0,19.59,19.59,grocery,Chicago,r-i641,True,  ,924
+24,2024-01-24,5.0,62.08,310.4,electronics,LA,K-X735,False,coupon used ,190
+25,2024-01-25,4.0,16.37,65.48,grocery,Chicago,W-M211,True,,174
+26,2024-01-26,4.0,39.67,158.68,beauty,NYC,D-T988,False,,182
+27,2024-01-27,3.0,96.05,288.15,electronics,LA,g-l319,False,,188
+28,2024-01-28,5.0,99.57,497.85,beauty,Chicago,c-s973,True, VIP ,239
+29,2024-01-29,3.0,78.35,235.05,grocery,Dallas,S-N500,False, first-time buyer ,205
+30,2024-01-30,3.0,34.54,103.62,home,Chicago,g-h926 ,False,,239
+31,2024-01-31,3.0,70.33,210.99,beauty,Chicago,I-W901 ,True,,215
+32,2024-02-01,2.0,72.01,144.02,grocery,Chicago,V-S779,True, first-time buyer ,191
+33,2024-02-02,1.0,41.84,41.84,apparel,LA,j-u923 ,True,  ,188
+34,2024-02-03,3.0,65.88,197.64,electronics,LA,d-y647,True,coupon used ,217
+35,2024-02-04,5.0,6.02,30.1,electronics,Chicago, A-G863,True, first-time buyer ,225
+36,2024-02-05,1.0,24.86,24.86,home,NYC,F-C254 ,False,,230
+37,2024-02-06,5.0,54.88,274.4,home,Dallas,X-P163,True, VIP ,192
+38,2024-02-07,5.0,20.56,102.8,electronics,Dallas,o-i588 ,False, VIP ,205
+39,2024-02-08,2.0,20.76,41.52,grocery,LA,z-l828,False,,218
+40,2024-02-09,4.0,84.45,337.8,electronics,LA,F-G788,False,,188
+41,2024-02-10,1.0,98.97,98.97,grocery,LA,J-K574 ,False,,166
+42,2024-02-11,4.0,,231.28,grocery,Dallas,e-k568 ,True, first-time buyer ,176
+43,2024-02-12,4.0,84.71,338.84,grocery,Dallas, K-J648,True,,193
+44,2024-02-13,2.0,99.08,198.16,apparel,NYC,O-T880,True, first-time buyer ,220
+45,2024-02-14,1.0,18.45,18.45,electronics,Chicago,V-P856 ,False, first-time buyer ,238
+46,2024-02-15,5.0,47.58,237.9,home,NYC, J-M198,False,return window open ,159
+47,2024-02-16,3.0,42.29,126.87,beauty,Chicago, U-C635 ,True,,182
+48,2024-02-17,5.0,12.6,63.0,beauty,LA, q-o442,True, VIP ,189
+49,2024-02-18,4.0,76.76,307.04,electronics,LA,h-e818 ,False,  ,224
+50,2024-02-19,4.0,46.21,184.84,beauty,Chicago,X-I554,True, first-time buyer ,184
+51,2024-02-20,4.0,49.59,198.36,home,LA,L-K991 ,False,coupon used ,187
+52,2024-02-21,1.0,19.31,19.31,electronics,LA,D-D488,True,  ,158
+53,2024-02-22,2.0,22.19,44.38,beauty,Dallas,Z-K710,True,coupon used ,215
+54,2024-02-23,3.0,91.17,273.51,grocery,Miami,x-g197 ,False, VIP ,195
+55,2024-02-24,3.0,9.24,27.72,beauty,NYC,b-w938,True,return window open ,180
+56,2024-02-25,1.0,27.12,27.12,apparel,LA,x-w238 ,True,coupon used ,192
+57,2024-02-26,3.0,32.75,98.25,home,Miami, y-a440,False, VIP ,234
+58,2024-02-27,1.0,51.57,51.57,electronics,Chicago,V-P853,True,return window open ,170
+59,2024-02-28,4.0,60.71,242.84,grocery,LA,G-Q969,False,return window open ,175
+60,2024-02-29,4.0,51.86,207.44,grocery,Chicago,Q-J535 ,False,,238
+61,2024-03-01,5.0,12.99,64.95,grocery,NYC,N-M535 ,True,,202
+62,2024-03-02,4.0,28.15,112.6,grocery,NYC,Q-U143 ,True,,220
+63,2024-03-03,2.0,85.14,170.28,grocery,Dallas, q-j980,True,,212
+64,2024-03-04,5.0,65.57,327.85,electronics,Chicago,Q-B114 ,True, VIP ,199
+65,2024-03-05,3.0,66.67,200.01,beauty,Dallas, N-J123,True, first-time buyer ,190
+66,2024-03-06,2.0,68.67,137.34,apparel,LA,R-G525,False,  ,225
+67,2024-03-07,5.0,77.48,387.4,home,Miami, N-J103,False,coupon used ,235
+68,2024-03-08,2.0,10.52,21.04,beauty,Chicago,a-f247,False, VIP ,233
+69,2024-03-09,1.0,39.83,39.83,electronics,Dallas,a-d664 ,False,  ,164
+70,2024-03-10,3.0,56.26,168.78,electronics,NYC, y-z733,False,,239
+71,2024-03-11,4.0,37.15,148.6,apparel,NYC,X-D368 ,False,,189
+72,2024-03-12,1.0,85.23,85.23,apparel,Dallas,p-s814,True,return window open ,177
+73,2024-03-13,3.0,50.84,152.52,grocery,Miami,e-s646,True,coupon used ,195
+74,2024-03-14,1.0,78.02,78.02,beauty,Miami, u-q305,False,  ,225
+75,2024-03-15,4.0,85.94,343.76,apparel,LA, D-X740,False,,216
+76,2024-03-16,3.0,52.96,158.88,beauty,NYC,J-A632 ,False,  ,192
+77,2024-03-17,2.0,,182.82,electronics,Miami,I-H830,True,return window open ,225
+78,2024-03-18,2.0,60.78,121.56,home,Dallas,A-E238 ,False,,204
+79,2024-03-19,3.0,85.78,257.34,grocery,LA, u-p307,True, first-time buyer ,183
+80,2024-03-20,4.0,37.36,149.44,apparel,Dallas,N-Q372,False,coupon used ,179
+81,2024-03-21,5.0,52.39,261.95,apparel,Miami,i-x406 ,False,  ,212
+82,2024-03-22,3.0,55.48,166.44,home,LA, n-j899,False, first-time buyer ,198
+83,2024-03-23,1.0,14.97,14.97,grocery,Dallas,A-G758,False,,159
+84,2024-03-24,5.0,,214.3,grocery,Dallas,l-y589 ,True, VIP ,225
+85,2024-03-25,4.0,92.15,368.6,grocery,Chicago,n-r585,False,,186
+86,2024-03-26,4.0,64.93,259.72,grocery,Dallas,I-T896,False,coupon used ,248
+87,2024-03-27,1.0,21.86,21.86,electronics,LA,V-L501,False,return window open ,158
+88,2024-03-28,2.0,37.19,74.38,electronics,Miami,g-l302,True,  ,195
+89,2024-03-29,4.0,23.2,92.8,grocery,Miami, D-K223,True, VIP ,179
+90,2024-03-30,5.0,7.36,36.8,apparel,Miami, N-T396 ,True,return window open ,171
+91,2024-03-31,3.0,93.11,279.33,grocery,Dallas, x-f687,False,coupon used ,185
+92,2024-04-01,5.0,47.58,237.9,grocery,NYC,j-z523,False, first-time buyer ,253
+93,2024-04-02,5.0,34.22,171.1,beauty,LA,B-E479,False,,204
+94,2024-04-03,2.0,61.86,123.72,grocery,Chicago, Z-L531,False,coupon used ,176
+95,2024-04-04,5.0,5.69,28.45,home,Miami, L-I976,False, first-time buyer ,145
+96,2024-04-05,2.0,31.41,62.82,beauty,Chicago,E-Q996,True,return window open ,148
+97,2024-04-06,2.0,71.79,143.58,electronics,Chicago,q-r245,False, VIP ,184
+98,2024-04-07,4.0,65.21,260.84,grocery,NYC,I-X202,True,  ,181
+99,2024-04-08,4.0,98.27,393.08,electronics,Dallas,Y-U319,True,  ,193
+100,2024-04-09,1.0,63.93,63.93,grocery,LA,h-g865,True,,132
+101,2024-04-10,5.0,50.36,251.8,grocery,NYC, O-F513,True,return window open ,197
+102,2024-04-11,1.0,77.34,77.34,electronics,Miami,o-x876 ,True, VIP ,231
+103,2024-04-12,5.0,90.82,454.1,electronics,NYC,G-M681 ,False, VIP ,249
+104,2024-04-13,1.0,73.47,73.47,apparel,NYC,M-C597,True,coupon used ,143
+105,2024-04-14,4.0,96.51,386.04,beauty,NYC,C-V353,True,return window open ,176
+106,2024-04-15,4.0,79.29,317.16,grocery,Chicago, Q-Q409,True,return window open ,174
+107,2024-04-16,4.0,87.35,349.4,home,NYC,T-A232 ,False,coupon used ,204
+108,2024-04-17,4.0,15.84,63.36,grocery,Miami,y-u566 ,False,,163
+109,2024-04-18,3.0,74.58,223.74,home,Chicago,I-P352,True,coupon used ,250
+110,2024-04-19,4.0,46.81,187.24,grocery,LA,H-P362,True,return window open ,201
+111,2024-04-20,2.0,57.54,115.08,apparel,NYC,o-w135 ,False,,196
+112,2024-04-21,4.0,67.14,268.56,beauty,Chicago,S-M818,False,,248
+113,2024-04-22,3.0,97.13,291.39,electronics,NYC,z-l944,False,,200
+114,2024-04-23,3.0,98.53,295.59,home,Miami,A-Q547,False,,212
+115,2024-04-24,3.0,32.38,97.14,grocery,LA,G-F581 ,False, VIP ,177
+116,2024-04-25,3.0,74.71,224.13,apparel,Chicago, G-D932,False, VIP ,159
+117,2024-04-26,,76.25,76.25,beauty,NYC,G-V559,True,return window open ,182
+118,2024-04-27,1.0,37.92,37.92,beauty,NYC,m-f659,False,,266
+119,2024-04-28,2.0,16.77,33.54,electronics,LA,W-N484 ,True,  ,219
+120,2024-04-29,1.0,8.89,8.89,home,NYC,a-h562,False,return window open ,208
+121,2024-04-30,3.0,78.85,236.55,beauty,Dallas,v-f569,True,,171
+122,2024-05-01,4.0,51.52,206.08,home,Miami,Q-P739,True,,227
+123,2024-05-02,4.0,98.63,394.52,apparel,Miami,P-U643,False, first-time buyer ,159
+124,2024-05-03,3.0,49.17,147.51,beauty,LA,R-L553,False, first-time buyer ,153
+125,2024-05-04,5.0,97.9,489.5,apparel,Dallas,d-d168,True, first-time buyer ,183
+126,2024-05-05,3.0,44.1,132.3,home,Chicago, T-G913 ,False,  ,259
+127,2024-05-06,1.0,80.4,80.4,home,NYC,g-e898,True,,257
+128,2024-05-07,4.0,13.06,52.24,home,NYC,n-w265 ,False,coupon used ,186
+129,2024-05-08,3.0,57.77,173.31,apparel,Chicago,R-I363,False,  ,180
+130,2024-05-09,4.0,81.2,324.8,beauty,Chicago,p-j975,True,return window open ,151
+131,2024-05-10,3.0,92.85,278.55,grocery,NYC,i-b388 ,False, VIP ,202
+132,2024-05-11,3.0,83.15,249.45,apparel,Miami,K-L830 ,False, first-time buyer ,205
+133,2024-05-12,1.0,,8.51,beauty,Dallas,M-X806 ,True,,224
+134,2024-05-13,3.0,40.41,121.23,electronics,Chicago,b-k873,False,,227
+135,2024-05-14,4.0,9.63,38.52,beauty,Miami,S-Q114,True,  ,194
+136,2024-05-15,2.0,15.38,30.76,electronics,Miami, c-e534,False, VIP ,217
+137,2024-05-16,4.0,69.15,276.6,apparel,Miami,L-D608 ,True,coupon used ,179
+138,2024-05-17,1.0,72.76,72.76,apparel,LA,r-t852 ,True,,216
+139,2024-05-18,2.0,78.5,157.0,apparel,Miami,c-b301 ,False, first-time buyer ,185
+140,2024-05-19,3.0,,261.66,apparel,Chicago,Z-L375,True,return window open ,214
+141,2024-05-20,5.0,75.25,376.25,apparel,Dallas,j-i261,False,,211
+142,2024-05-21,2.0,81.08,162.16,apparel,Miami,a-a784,False, VIP ,202
+143,2024-05-22,2.0,9.65,19.3,apparel,NYC, r-n997,False, first-time buyer ,224
+144,2024-05-23,3.0,27.28,81.84,apparel,Chicago,O-Z226,True,  ,153
+145,2024-05-24,5.0,64.08,320.4,beauty,NYC,Q-B309,False,return window open ,168
+146,2024-05-25,5.0,86.52,432.6,apparel,LA, T-V376,False, first-time buyer ,192
+147,2024-05-26,1.0,5.43,5.43,beauty,Chicago, M-O899,True, VIP ,157
+148,2024-05-27,2.0,53.89,107.78,home,Miami,V-S500,False,  ,188
+149,2024-05-28,5.0,69.34,346.7,home,Miami,J-C353,False,coupon used ,189
+150,2024-05-29,1.0,7.81,7.81,electronics,LA,O-W389 ,False,return window open ,239
+151,2024-05-30,5.0,43.13,215.65,beauty,LA, E-A637,False,,204
+152,2024-05-31,2.0,90.09,180.18,grocery,Chicago,Q-X447 ,False,  ,231
+153,2024-06-01,5.0,68.8,344.0,electronics,Miami,G-R226,False,coupon used ,209
+154,2024-06-02,2.0,27.58,55.16,beauty,Miami,s-i837 ,False,,184
+155,2024-06-03,3.0,86.01,258.03,electronics,LA,U-A479 ,False,coupon used ,204
+156,2024-06-04,4.0,38.06,152.24,home,NYC, w-p330 ,False, first-time buyer ,222
+157,2024-06-05,1.0,86.07,86.07,beauty,Dallas,Y-C754,False,  ,236
+158,2024-06-06,3.0,33.4,100.2,home,LA, d-p770,False,return window open ,196
+159,2024-06-07,3.0,61.08,183.24,beauty,NYC,d-u239,True,,151
+160,2024-06-08,4.0,42.71,170.84,home,NYC, Y-G166,True,return window open ,148
+161,2024-06-09,5.0,31.11,155.55,electronics,Chicago,J-G140,False,,190
+162,2024-06-10,4.0,89.22,356.88,home,LA, A-F788,False, first-time buyer ,130
+163,2024-06-11,3.0,22.82,68.46,electronics,Chicago,H-F662 ,False,,254
+164,2024-06-12,3.0,13.06,39.18,grocery,LA,V-C812,False,,218
+165,2024-06-13,3.0,37.48,112.44,electronics,Dallas,J-G663,False, VIP ,181
+166,2024-06-14,5.0,73.18,365.9,apparel,Dallas, B-R461,False,,167
+167,2024-06-15,2.0,81.71,163.42,beauty,Chicago, S-H630,False,,231
+168,2024-06-16,1.0,99.88,99.88,grocery,NYC,F-U749,True,,167
+169,2024-06-17,2.0,33.15,66.3,home,Chicago,J-V458 ,False,coupon used ,169
+170,2024-06-18,1.0,43.75,43.75,beauty,Dallas,A-T922,True,,177
+171,2024-06-19,1.0,18.0,18.0,beauty,LA,P-O908,False,  ,203
+172,2024-06-20,1.0,59.61,59.61,home,LA,L-I819,False,coupon used ,219
+173,2024-06-21,4.0,99.77,399.08,apparel,Chicago,W-Y992,False,return window open ,236
+174,2024-06-22,4.0,71.58,286.32,grocery,LA, I-F451 ,False,return window open ,231
+175,2024-06-23,4.0,61.55,246.2,home,Chicago,F-M202 ,True, first-time buyer ,200
+176,2024-06-24,3.0,42.28,126.84,apparel,LA,E-L535 ,True, first-time buyer ,231
+177,2024-06-25,4.0,91.95,367.8,beauty,LA,F-T770 ,True,,180
+178,2024-06-26,1.0,52.21,52.21,grocery,Dallas,L-O800 ,False,  ,145
+179,2024-06-27,5.0,17.76,88.8,grocery,Chicago,C-U449,False, first-time buyer ,180
+180,2024-06-28,3.0,39.71,119.13,electronics,Chicago,K-X363,True,,176
+181,2024-06-29,5.0,11.38,56.9,grocery,Dallas,w-k500,True, first-time buyer ,181
+182,2024-06-30,1.0,24.19,24.19,electronics,LA, T-W822,False, VIP ,171
+183,2024-07-01,3.0,6.68,20.04,beauty,NYC,Q-E154 ,False,coupon used ,186
+184,2024-07-02,4.0,48.06,192.24,electronics,Miami,X-X394,True,,219
+185,2024-07-03,3.0,65.28,195.84,beauty,NYC,u-e306 ,True,,251
+186,2024-07-04,,37.61,112.83,home,Chicago,Q-W824,False, first-time buyer ,148
+187,2024-07-05,1.0,44.94,44.94,beauty,LA, W-K522 ,True,return window open ,161
+188,2024-07-06,2.0,96.12,192.24,apparel,LA, d-z178,True,return window open ,176
+189,2024-07-07,2.0,76.44,152.88,electronics,NYC, V-D335,True,  ,223
+190,2024-07-08,2.0,56.38,112.76,home,Miami,H-M139,False,,194
+191,2024-07-09,4.0,32.03,128.12,electronics,Chicago, T-X527,False,,178
+192,2024-07-10,4.0,90.21,360.84,beauty,LA,x-b996,True,return window open ,222
+193,2024-07-11,4.0,,109.32,beauty,Dallas,m-g609 ,False,  ,229
+194,2024-07-12,2.0,35.91,71.82,electronics,NYC,C-C881,False,,199
+195,2024-07-13,5.0,91.36,456.8,beauty,Chicago, j-i767,False,coupon used ,176
+196,2024-07-14,1.0,55.31,55.31,electronics,Chicago,K-K893,False,  ,208
+197,2024-07-15,2.0,75.52,151.04,grocery,Chicago, Y-Q379,True, VIP ,193
+198,2024-07-16,1.0,61.12,61.12,home,NYC,y-g955,False,  ,193
+199,2024-07-17,2.0,67.08,134.16,home,Miami, O-E314,False, first-time buyer ,185
+200,2024-07-18,5.0,33.44,167.2,grocery,LA, Y-E494,False,return window open ,228
+201,2024-07-19,2.0,27.93,55.86,home,Dallas, L-Y712 ,True,coupon used ,207
+202,2024-07-20,5.0,35.64,178.2,home,Dallas,K-Y357 ,True, first-time buyer ,231
+203,2024-07-21,3.0,19.77,59.31,beauty,LA, V-F337 ,True,coupon used ,240
+204,2024-07-22,4.0,88.06,352.24,electronics,NYC,r-f216,False, first-time buyer ,214
+205,2024-07-23,3.0,31.91,95.73,grocery,LA,n-b103 ,False,  ,185
+206,2024-07-24,2.0,58.34,116.68,beauty,Miami,L-Y550 ,False,coupon used ,231
+207,2024-07-25,4.0,80.24,320.96,home,Miami, S-S987 ,False,,214
+208,2024-07-26,5.0,79.46,397.3,home,Miami, t-t297,True,coupon used ,278
+209,2024-07-27,2.0,46.65,93.3,apparel,LA,m-h495 ,True, first-time buyer ,209
+210,2024-07-28,4.0,50.24,200.96,grocery,Dallas, A-Q941 ,False,,221
+211,2024-07-29,2.0,99.5,199.0,home,NYC,c-b794,False,  ,209
+212,2024-07-30,4.0,69.09,276.36,grocery,Dallas,D-R103 ,False,,197
+213,2024-07-31,4.0,82.39,329.56,grocery,Chicago,M-P550,False,coupon used ,192
+214,2024-08-01,3.0,90.74,272.22,home,Dallas, P-I228,False, first-time buyer ,209
+215,2024-08-02,,,319.28,apparel,Dallas,u-s322,False,return window open ,216
+216,2024-08-03,2.0,,45.18,grocery,Miami, g-q321,True,coupon used ,235
+217,2024-08-04,1.0,58.41,58.41,electronics,Chicago,U-L650,False, first-time buyer ,209
+218,2024-08-05,1.0,14.68,14.68,apparel,LA, R-E278 ,False,,186
+219,2024-08-06,3.0,67.03,201.09,home,Chicago,b-a326 ,True, VIP ,190
+220,2024-08-07,,95.76,478.8,apparel,NYC,J-Y302 ,True,,160
+221,2024-08-08,1.0,53.71,53.71,beauty,NYC, H-H420 ,True,  ,250
+222,2024-08-09,3.0,46.13,138.39,grocery,Chicago, x-h689,True, VIP ,184
+223,2024-08-10,4.0,8.41,33.64,beauty,Miami,X-R459 ,False,,229
+224,2024-08-11,2.0,96.18,192.36,beauty,Chicago, v-g394 ,True, first-time buyer ,208
+225,2024-08-12,4.0,14.79,59.16,beauty,Dallas, N-J565,False,return window open ,209
+226,2024-08-13,2.0,8.9,17.8,beauty,NYC,m-s652,True,return window open ,196
+227,2024-08-14,5.0,28.38,141.9,apparel,Chicago,I-P113 ,True, first-time buyer ,176
+228,2024-08-15,3.0,11.23,33.69,grocery,Dallas, U-R900 ,True,coupon used ,171
+229,2024-08-16,3.0,48.24,144.72,beauty,LA,C-A923 ,True,return window open ,252
+230,2024-08-17,1.0,54.03,54.03,home,NYC, H-L641 ,False,,203
+231,2024-08-18,3.0,34.69,104.07,home,NYC,D-M616,True,coupon used ,234
+232,2024-08-19,5.0,9.84,49.2,grocery,Miami, M-Q724,True,return window open ,242
+233,2024-08-20,1.0,15.6,15.6,beauty,Dallas,H-D496,True, first-time buyer ,188
+234,2024-08-21,4.0,41.53,166.12,electronics,LA,f-e428,True,,213
+235,2024-08-22,3.0,10.75,32.25,apparel,LA, J-T417,False,coupon used ,201
+236,2024-08-23,4.0,71.33,285.32,apparel,NYC, w-r243,False, VIP ,165
+237,2024-08-24,4.0,24.67,98.68,grocery,Miami,O-V856 ,True, first-time buyer ,194
+238,2024-08-25,3.0,33.7,101.1,home,NYC,V-H388 ,False, VIP ,218
+239,2024-08-26,2.0,42.44,84.88,home,Dallas,X-Z355,False, VIP ,185
+240,2024-08-27,4.0,44.58,178.32,electronics,LA,X-H966,False,coupon used ,190
+241,2024-08-28,1.0,,5.16,grocery,LA,J-Q555 ,False, VIP ,195
+242,2024-08-29,3.0,15.65,46.95,grocery,LA,w-e659 ,True, VIP ,263
+243,2024-08-30,1.0,86.96,86.96,home,Miami,x-x320,False,return window open ,145
+244,2024-08-31,4.0,5.12,20.48,apparel,NYC,Y-I349 ,False,,215
+245,2024-09-01,4.0,53.28,213.12,beauty,LA,j-u754,False,return window open ,192
+246,2024-09-02,1.0,51.5,51.5,home,LA, f-i505,False,,181
+247,2024-09-03,4.0,36.64,146.56,beauty,LA,P-U232,False,return window open ,192
+248,2024-09-04,3.0,45.98,137.94,electronics,NYC, Y-L851 ,True, first-time buyer ,220
+249,2024-09-05,4.0,79.16,316.64,electronics,Miami, X-B462 ,False,return window open ,222
+250,2024-09-06,1.0,84.91,84.91,grocery,LA,O-E700,False,return window open ,206
+251,2024-09-07,1.0,29.73,29.73,grocery,Chicago,D-R406,False,,233
+252,2024-09-08,3.0,35.64,106.92,beauty,LA, k-f604 ,False, VIP ,238
+253,2024-09-09,1.0,28.04,28.04,electronics,Miami, S-H797 ,False, VIP ,224
+254,2024-09-10,2.0,50.59,101.18,grocery,LA,O-O895,False, VIP ,184
+255,2024-09-11,4.0,69.91,279.64,grocery,LA,I-G286,False,coupon used ,215
+256,2024-09-12,1.0,26.68,26.68,electronics,LA, I-D704,True,,215
+257,2024-09-13,4.0,36.42,145.68,electronics,LA, B-Q922,False, first-time buyer ,176
+258,2024-09-14,1.0,93.39,93.39,electronics,NYC,h-r677,False,,153
+259,2024-09-15,1.0,9.61,9.61,apparel,Dallas,R-T228,False,return window open ,139
+260,2024-09-16,3.0,48.77,146.31,apparel,NYC, g-y270 ,True,  ,202
+261,2024-09-17,4.0,72.6,290.4,apparel,LA,Z-D282,False,return window open ,209
+262,2024-09-18,1.0,19.29,19.29,apparel,LA,c-l195,False,,165
+263,2024-09-19,2.0,9.5,19.0,beauty,LA, p-g777 ,False,return window open ,231
+264,2024-09-20,5.0,18.13,90.65,home,Dallas,M-X967,True,return window open ,205
+265,2024-09-21,5.0,92.29,461.45,apparel,Chicago,V-O564,False,,240
+266,2024-09-22,3.0,5.88,17.64,beauty,Miami,X-C638 ,True,coupon used ,211
+267,2024-09-23,3.0,22.89,68.67,beauty,LA,o-r795,True, first-time buyer ,168
+268,2024-09-24,2.0,7.97,15.94,beauty,Miami,Q-B473,False,coupon used ,214
+269,2024-09-25,4.0,15.51,62.04,electronics,NYC,s-h524,False,coupon used ,220
+270,2024-09-26,3.0,63.91,191.73,home,Chicago,n-s629,True, first-time buyer ,184
+271,2024-09-27,2.0,27.96,55.92,electronics,Dallas,E-N373,False,,157
+272,2024-09-28,1.0,59.08,59.08,apparel,Chicago,l-t155,False, VIP ,203
+273,2024-09-29,1.0,61.07,61.07,beauty,Miami,G-O610,True, VIP ,170
+274,2024-09-30,5.0,85.7,428.5,apparel,LA,m-v839,True,  ,234
+275,2024-10-01,3.0,5.45,16.35,grocery,NYC, p-o165,False,,188
+276,2024-10-02,3.0,86.07,258.21,home,Dallas, F-B294,False,,252
+277,2024-10-03,3.0,63.82,191.46,electronics,NYC,g-b336,True,  ,136
+278,2024-10-04,4.0,20.46,81.84,grocery,Dallas,V-U823,False,coupon used ,204
+279,2024-10-05,1.0,78.43,78.43,home,Dallas, J-B553 ,False, VIP ,243
+280,2024-10-06,1.0,86.27,86.27,beauty,Miami,f-j580,False, VIP ,173
+281,2024-10-07,2.0,29.16,58.32,electronics,Chicago, S-A680,False, first-time buyer ,195
+282,2024-10-08,3.0,92.29,276.87,beauty,Miami,s-h348,True, first-time buyer ,188
+283,2024-10-09,4.0,48.17,192.68,home,NYC,V-P741,True, VIP ,179
+284,2024-10-10,3.0,62.33,186.99,electronics,Chicago, t-e127,True, first-time buyer ,207
+285,2024-10-11,3.0,98.54,295.62,apparel,NYC,Z-M202 ,False, VIP ,161
+286,2024-10-12,5.0,39.35,196.75,apparel,Dallas, O-Z833 ,False, first-time buyer ,197
+287,2024-10-13,1.0,82.25,82.25,electronics,Dallas,H-B691,False,,215
+288,2024-10-14,3.0,35.25,105.75,grocery,Miami, W-B258,True, VIP ,194
+289,2024-10-15,3.0,80.93,242.79,electronics,Dallas,G-H494,False,coupon used ,170
+290,2024-10-16,3.0,62.07,186.21,electronics,LA,H-V146,True,,231
+291,2024-10-17,5.0,25.55,127.75,apparel,NYC, V-K703,True,,222
+292,2024-10-18,2.0,44.33,88.66,apparel,Miami, W-Q779,True,,169
+293,2024-10-19,5.0,35.18,175.9,grocery,Chicago, I-A350,False,return window open ,161
+294,2024-10-20,2.0,12.42,24.84,grocery,NYC,S-T414,True, first-time buyer ,171
+295,2024-10-21,3.0,7.83,23.49,electronics,Miami,x-b312,False,return window open ,216
+296,2024-10-22,3.0,37.92,113.76,beauty,Miami,U-S450,False, first-time buyer ,208
+297,2024-10-23,,6.81,34.05,grocery,Chicago,A-D344,False,,224
+298,2024-10-24,3.0,20.72,62.16,home,Dallas,R-W322 ,True,coupon used ,190
+299,2024-10-25,2.0,73.89,147.78,apparel,NYC,e-h486 ,False,return window open ,172
+300,2024-10-26,1.0,72.27,72.27,home,NYC,W-E872 ,False,,228
+301,2024-10-27,2.0,75.17,150.34,beauty,LA,b-i785,False,,183
+302,2024-10-28,5.0,35.13,175.65,grocery,Dallas,Z-A367,False,  ,206
+303,2024-10-29,1.0,89.55,89.55,beauty,NYC,E-E947,False, first-time buyer ,154
+304,2024-10-30,5.0,61.41,307.05,grocery,NYC,k-p288,False,  ,183
+305,2024-10-31,3.0,16.97,50.91,electronics,Dallas, G-H918 ,False,,230
+306,2024-11-01,1.0,18.65,18.65,grocery,Dallas, v-j378,False,,179
+307,2024-11-02,2.0,,141.68,grocery,Dallas,K-U585,True,  ,224
+308,2024-11-03,3.0,21.43,64.29,electronics,Dallas,T-D282 ,False,return window open ,130
+309,2024-11-04,2.0,53.19,106.38,electronics,Miami,B-K785 ,True, first-time buyer ,183
+310,2024-11-05,1.0,99.22,99.22,home,Dallas,L-E385 ,True,,195
+311,2024-11-06,4.0,5.38,21.52,apparel,Chicago,x-m884,True, VIP ,252
+312,2024-11-07,4.0,6.58,26.32,apparel,Miami,Y-I174 ,True,return window open ,165
+313,2024-11-08,1.0,99.34,99.34,home,LA, F-B551,False, first-time buyer ,220
+314,2024-11-09,2.0,60.54,121.08,grocery,NYC,k-b242,False,return window open ,232
+315,2024-11-10,2.0,17.06,34.12,apparel,Dallas, K-W899,True,,178
+316,2024-11-11,4.0,90.24,360.96,home,LA,O-B474,True, first-time buyer ,189
+317,2024-11-12,4.0,88.64,354.56,beauty,Miami,N-U706 ,False,coupon used ,204
+318,2024-11-13,,55.94,223.76,grocery,Chicago,C-X890,False, first-time buyer ,156
+319,2024-11-14,5.0,64.07,320.35,grocery,Miami,T-M581,False, first-time buyer ,186
+320,2024-11-15,4.0,30.95,123.8,electronics,NYC,F-I151,True, VIP ,238
+321,2024-11-16,2.0,9.8,19.6,electronics,Dallas,i-u298 ,True,,216
+322,2024-11-17,1.0,61.48,61.48,electronics,Chicago,V-Z291,True, VIP ,195
+323,2024-11-18,4.0,33.0,132.0,beauty,Chicago,R-D921,True,  ,203
+324,2024-11-19,5.0,68.04,340.2,beauty,LA, k-z916 ,False,  ,217
+325,2024-11-20,5.0,84.44,422.2,apparel,Miami, X-Y528 ,False, first-time buyer ,223
+326,2024-11-21,2.0,6.73,13.46,beauty,LA,k-d900 ,True, first-time buyer ,183
+327,2024-11-22,2.0,61.59,123.18,electronics,Miami, O-B321,False, VIP ,246
+328,2024-11-23,1.0,26.97,26.97,grocery,Chicago,G-S710,False, first-time buyer ,239
+329,2024-11-24,1.0,88.02,88.02,grocery,NYC,E-C452,True,return window open ,220
+330,2024-11-25,3.0,29.1,87.3,home,Miami,m-p316,False, VIP ,175
+331,2024-11-26,3.0,63.02,189.06,beauty,NYC, O-B324,True, VIP ,169
+332,2024-11-27,2.0,57.59,115.18,home,LA,U-R477,False,,190
+333,2024-11-28,2.0,42.64,85.28,grocery,Miami, K-G405 ,True,coupon used ,202
+334,2024-11-29,5.0,69.37,346.85,home,Miami,X-C289 ,False,,147
+335,2024-11-30,3.0,73.95,221.85,electronics,Miami,P-B400,True,  ,215
+336,2024-12-01,,58.86,294.3,grocery,Chicago, B-E215,False,return window open ,239
+337,2024-12-02,5.0,77.05,385.25,apparel,Dallas, T-O971,False,return window open ,217
+338,2024-12-03,2.0,98.42,196.84,electronics,LA, O-B441,False, first-time buyer ,180
+339,2024-12-04,2.0,44.83,89.66,home,Dallas,k-u196,True, first-time buyer ,176
+340,2024-12-05,5.0,53.89,269.45,home,Chicago,M-P617 ,False, VIP ,209
+341,2024-12-06,4.0,6.18,24.72,apparel,NYC, H-H893,False,coupon used ,195
+342,2024-12-07,2.0,80.62,161.24,grocery,Chicago, P-Z423 ,True,return window open ,213
+343,2024-12-08,4.0,54.42,217.68,electronics,Chicago,O-R859,False,,218
+344,2024-12-09,3.0,43.76,131.28,beauty,LA, L-R649,True,,233
+345,2024-12-10,5.0,13.94,69.7,apparel,LA,h-e764 ,True, first-time buyer ,166
+346,2024-12-11,2.0,89.52,179.04,beauty,Chicago,K-S366 ,False,,207
+347,2024-12-12,5.0,42.53,212.65,beauty,NYC,M-O133,True, first-time buyer ,189
+348,2024-12-13,5.0,69.85,349.25,electronics,NYC,M-Z410,False,  ,197
+349,2024-12-14,1.0,19.19,19.19,electronics,Dallas,I-M931,True, first-time buyer ,226
+350,2024-12-15,1.0,96.35,96.35,beauty,LA,P-R810 ,True,,229
+351,2024-12-16,3.0,21.95,65.85,electronics,Dallas, F-I804,True,return window open ,242
+352,2024-12-17,1.0,23.96,23.96,home,Chicago, N-B889,True,return window open ,213
+353,2024-12-18,2.0,86.6,173.2,electronics,Chicago,D-D435,False,,197
+354,2024-12-19,3.0,91.7,275.1,beauty,Chicago, M-W389,False,,192
+355,2024-12-20,5.0,25.15,125.75,home,Chicago,u-t931,False, first-time buyer ,148
+356,2024-12-21,5.0,49.63,248.15,apparel,Miami,V-J613,True,,240
+357,2024-12-22,1.0,74.68,74.68,electronics,Miami,S-S367,False,coupon used ,190
+358,2024-12-23,5.0,88.44,442.2,home,LA,T-A350,True,  ,215
+359,2024-12-24,1.0,41.01,41.01,electronics,Dallas,B-A888,True, first-time buyer ,220
+360,2024-12-25,4.0,54.12,216.48,apparel,Miami,I-N147,False, VIP ,163
+361,2024-12-26,5.0,75.46,377.3,home,NYC, R-Q155,False,coupon used ,172
+362,2024-12-27,5.0,74.46,372.3,beauty,Dallas,U-Y763 ,False, first-time buyer ,246
+363,2024-12-28,2.0,79.38,158.76,electronics,Chicago,P-T101 ,False,return window open ,209
+364,2024-12-29,5.0,59.14,295.7,home,Miami,w-g253,False,coupon used ,183
+365,2024-12-30,1.0,14.94,14.94,electronics,Chicago,H-V990,True,return window open ,196
+366,2024-12-31,3.0,90.88,272.64,beauty,Miami, D-M482,True,  ,233
+367,2025-01-01,,87.23,261.69,beauty,NYC,C-V754,True, first-time buyer ,228
+368,2025-01-02,2.0,80.82,161.64,grocery,NYC,p-e537,False,,156
+369,2025-01-03,1.0,14.49,14.49,apparel,Miami, R-A181,False,  ,249
+370,2025-01-04,4.0,24.42,97.68,electronics,Chicago,H-B265,False, VIP ,229
+371,2025-01-05,2.0,75.64,151.28,home,Chicago, U-Z784 ,True,,195
+372,2025-01-06,4.0,7.2,28.8,grocery,NYC, t-c185,False,return window open ,164
+373,2025-01-07,3.0,,294.09,grocery,LA,J-Y634 ,False,return window open ,232
+374,2025-01-08,2.0,40.83,81.66,apparel,Miami, G-S412,False, VIP ,214
+375,2025-01-09,5.0,,366.65,beauty,LA,t-d432,False,,156
+376,2025-01-10,1.0,89.32,89.32,apparel,Chicago, r-w956,True, VIP ,193
+377,2025-01-11,4.0,42.49,169.96,apparel,LA,e-d644 ,True,  ,294
+378,2025-01-12,4.0,35.32,141.28,apparel,LA, G-D653,False,,200
+379,2025-01-13,2.0,62.83,125.66,home,NYC,m-o414 ,False, VIP ,178
+380,2025-01-14,2.0,60.19,120.38,grocery,Miami, N-H442,True,coupon used ,170
+381,2025-01-15,1.0,43.87,43.87,home,Miami,E-H716 ,True, first-time buyer ,253
+382,2025-01-16,5.0,62.17,310.85,beauty,NYC,Y-F134,True,,225
+383,2025-01-17,5.0,93.86,469.3,home,LA, K-P313,False,return window open ,242
+384,2025-01-18,2.0,,98.86,home,Chicago,J-A639 ,True,coupon used ,207
+385,2025-01-19,1.0,23.69,23.69,beauty,LA,b-g660 ,True,,238
+386,2025-01-20,1.0,40.83,40.83,grocery,Dallas,W-O182,False,,175
+387,2025-01-21,1.0,42.44,42.44,beauty,LA,g-m808 ,False,,205
+388,2025-01-22,5.0,17.46,87.3,beauty,NYC, z-s587 ,True,return window open ,209
+389,2025-01-23,5.0,20.47,102.35,grocery,LA,M-F313,True,coupon used ,241
+390,2025-01-24,1.0,70.03,70.03,beauty,Chicago,w-q776,True,return window open ,210
+391,2025-01-25,4.0,37.25,149.0,grocery,NYC, e-t990,True, first-time buyer ,181
+392,2025-01-26,1.0,95.72,95.72,apparel,Miami,E-K480,True,  ,202
+393,2025-01-27,,28.14,56.28,beauty,NYC,U-G354,True,coupon used ,150
+394,2025-01-28,3.0,14.4,43.2,electronics,NYC,v-o369,False,,130
+395,2025-01-29,4.0,76.58,306.32,grocery,Chicago,O-P632,False,coupon used ,225
+396,2025-01-30,5.0,88.7,443.5,beauty,Chicago,A-C142,False, first-time buyer ,189
+397,2025-01-31,1.0,31.42,31.42,apparel,LA, Y-O534,True,  ,192
+398,2025-02-01,1.0,24.2,24.2,home,LA,k-e122,True,  ,225
+399,2025-02-02,2.0,22.65,45.3,electronics,NYC, Y-O134,False,return window open ,242
+400,2025-02-03,2.0,54.59,109.18,beauty,Dallas,W-Y486 ,False, first-time buyer ,216
+401,2025-02-04,5.0,49.5,247.5,home,LA,w-n770,False, VIP ,258
+402,2025-02-05,4.0,29.65,118.6,home,NYC,r-t894 ,True,,215
+403,2025-02-06,2.0,9.29,18.58,electronics,LA, r-i178,True, first-time buyer ,209
+404,2025-02-07,5.0,50.74,253.7,home,Miami, N-X319 ,False,return window open ,207
+405,2025-02-08,3.0,96.14,288.42,grocery,LA,a-v479,False,coupon used ,161
+406,2025-02-09,3.0,66.99,200.97,grocery,Miami,K-X616,True, first-time buyer ,229
+407,2025-02-10,3.0,52.07,156.21,grocery,LA,S-T987,False,,127
+408,2025-02-11,1.0,15.52,15.52,beauty,NYC,v-q715 ,False,,182
+409,2025-02-12,5.0,28.98,144.9,beauty,LA,O-N583 ,False,return window open ,201
+410,2025-02-13,1.0,33.0,33.0,apparel,LA, s-y154,True, VIP ,176
+411,2025-02-14,1.0,77.66,77.66,electronics,NYC,a-w172 ,False,return window open ,186
+412,2025-02-15,2.0,88.29,176.58,home,Chicago, M-K237,False, VIP ,255
+413,2025-02-16,2.0,90.66,181.32,grocery,LA,N-C694,True,coupon used ,233
+414,2025-02-17,1.0,98.53,98.53,electronics,Dallas, X-A397 ,False, VIP ,179
+415,2025-02-18,1.0,98.32,98.32,apparel,Chicago, I-G316,False,,186
+416,2025-02-19,4.0,95.53,382.12,apparel,Chicago,f-b702,False, VIP ,162
+417,2025-02-20,5.0,11.82,59.1,beauty,Chicago,J-F833 ,True,coupon used ,221
+418,2025-02-21,1.0,18.09,18.09,home,NYC, e-c494,False,,193
+419,2025-02-22,2.0,33.92,67.84,electronics,Dallas, O-Z892 ,False, VIP ,141
+420,2025-02-23,3.0,57.53,172.59,grocery,NYC,Q-C760,True,return window open ,203
+421,2025-02-24,5.0,14.21,71.05,apparel,Dallas,U-Q743,True,,213
+422,2025-02-25,4.0,85.35,341.4,beauty,Miami, Z-J879,True,  ,229
+423,2025-02-26,4.0,,254.36,beauty,Dallas,B-E265,True,,198
+424,2025-02-27,3.0,56.52,169.56,grocery,Chicago, G-S781 ,False,return window open ,189
+425,2025-02-28,3.0,20.7,62.1,beauty,LA,h-z961,False,coupon used ,260
+426,2025-03-01,1.0,29.06,29.06,home,Miami,g-u992,True,,200
+427,2025-03-02,5.0,20.23,101.15,apparel,LA, v-z619,False,coupon used ,222
+428,2025-03-03,5.0,85.93,429.65,home,Chicago, D-P778,True,,184
+429,2025-03-04,1.0,60.5,60.5,beauty,Dallas, A-R898,False, first-time buyer ,221
+430,2025-03-05,4.0,74.84,299.36,grocery,Miami, w-d866,False, first-time buyer ,156
+431,2025-03-06,1.0,33.12,33.12,grocery,Miami,Y-W907,False,,186
+432,2025-03-07,4.0,40.27,161.08,beauty,NYC,F-T848,False,,164
+433,2025-03-08,5.0,43.46,217.3,grocery,Miami,i-g442,False,coupon used ,182
+434,2025-03-09,1.0,77.2,77.2,grocery,NYC,N-J756,True,coupon used ,238
+435,2025-03-10,3.0,78.37,235.11,grocery,Chicago,N-P468,True, first-time buyer ,182
+436,2025-03-11,1.0,24.65,24.65,beauty,Miami,Z-A820 ,False,,222
+437,2025-03-12,3.0,94.45,283.35,grocery,Dallas,K-V828,True,,246
+438,2025-03-13,5.0,,82.3,beauty,Miami, A-H940 ,True, VIP ,199
+439,2025-03-14,1.0,90.13,90.13,home,LA, K-B628,True,coupon used ,230
+440,2025-03-15,2.0,14.54,29.08,home,LA,O-I527 ,False,coupon used ,216
+441,2025-03-16,5.0,30.13,150.65,home,LA, N-V248 ,False,return window open ,203
+442,2025-03-17,2.0,85.42,170.84,electronics,LA,N-H673,False, VIP ,223
+443,2025-03-18,1.0,22.05,22.05,apparel,Dallas,X-O609,False,return window open ,255
+444,2025-03-19,3.0,44.29,132.87,grocery,Chicago,U-V562,True,coupon used ,181
+445,2025-03-20,3.0,47.74,143.22,home,Dallas, g-a708,True, VIP ,171
+446,2025-03-21,4.0,28.3,113.2,beauty,Chicago,j-t865 ,False, VIP ,169
+447,2025-03-22,2.0,72.47,144.94,grocery,LA,R-H233,False,,230
+448,2025-03-23,5.0,85.88,429.4,apparel,NYC,K-S487,True,return window open ,234
+449,2025-03-24,3.0,88.08,264.24,beauty,Chicago,L-E749,False, first-time buyer ,184
+450,2025-03-25,2.0,37.24,74.48,apparel,Miami, E-D836,False, first-time buyer ,136
+451,2025-03-26,,55.43,277.15,apparel,Miami,g-u799 ,True, VIP ,180
+452,2025-03-27,5.0,28.6,143.0,electronics,LA,t-v818,True,,216
+453,2025-03-28,3.0,28.26,84.78,apparel,Chicago,V-Z868,False,coupon used ,198
+454,2025-03-29,1.0,20.32,20.32,grocery,Dallas,u-r964 ,False,,205
+455,2025-03-30,3.0,94.3,282.9,home,Dallas,I-M646,False, first-time buyer ,184
+456,2025-03-31,3.0,89.36,268.08,home,NYC,D-F323,False, first-time buyer ,230
+457,2025-04-01,1.0,78.85,78.85,beauty,Chicago, E-H606 ,False,,210
+458,2025-04-02,4.0,54.18,216.72,electronics,NYC,K-Q737,False,return window open ,218
+459,2025-04-03,5.0,,258.05,home,NYC, N-I190 ,True,  ,205
+460,2025-04-04,1.0,55.33,55.33,grocery,Dallas,X-M780 ,False,,216
+461,2025-04-05,4.0,55.97,223.88,apparel,NYC,x-e589,False, first-time buyer ,214
+462,2025-04-06,1.0,46.28,46.28,home,LA,A-L941 ,False, first-time buyer ,172
+463,2025-04-07,4.0,17.52,70.08,home,Chicago,S-G290 ,True,  ,211
+464,2025-04-08,3.0,16.94,50.82,electronics,Dallas,h-c915,False, first-time buyer ,224
+465,2025-04-09,,95.46,95.46,grocery,Chicago, F-D502 ,False,,235
+466,2025-04-10,,50.79,253.95,beauty,NYC, O-N615,True,return window open ,212
+467,2025-04-11,1.0,95.55,95.55,apparel,Dallas, a-j693,True, VIP ,171
+468,2025-04-12,3.0,20.54,61.62,grocery,Miami,I-C620 ,True,,176
+469,2025-04-13,1.0,57.67,57.67,apparel,Miami,O-N912,False,return window open ,187
+470,2025-04-14,5.0,24.73,123.65,home,Dallas, H-E250 ,False,return window open ,206
+471,2025-04-15,4.0,29.05,116.2,grocery,Chicago,P-A756,True,,196
+472,2025-04-16,5.0,7.86,39.3,beauty,Miami, L-D976 ,False,,166
+473,2025-04-17,3.0,16.3,48.9,beauty,Chicago,U-L297,True,return window open ,166
+474,2025-04-18,3.0,92.1,276.3,home,NYC, E-Y329 ,False,return window open ,137
+475,2025-04-19,4.0,35.55,142.2,grocery,Miami,b-g527,True, VIP ,106
+476,2025-04-20,4.0,62.77,251.08,grocery,LA,n-h751 ,False,  ,196
+477,2025-04-21,5.0,49.18,245.9,apparel,Miami,G-G962 ,False,,270
+478,2025-04-22,1.0,43.04,43.04,apparel,LA, S-J815,True,,254
+479,2025-04-23,4.0,55.53,222.12,apparel,Miami,c-s813,False,coupon used ,171
+480,2025-04-24,1.0,22.79,22.79,beauty,Chicago,O-I496,False, VIP ,204
+481,2025-04-25,2.0,98.92,197.84,beauty,Chicago,Z-R680 ,False,return window open ,156
+482,2025-04-26,,82.74,413.7,grocery,LA,C-X289 ,False,,161
+483,2025-04-27,2.0,75.45,150.9,beauty,Miami,H-Y516,False,,164
+484,2025-04-28,4.0,49.53,198.12,grocery,NYC, V-O269,False,return window open ,193
+485,2025-04-29,3.0,19.52,58.56,apparel,Chicago,N-S124,True, first-time buyer ,195
+486,2025-04-30,2.0,92.46,184.92,electronics,LA, E-X869,False,return window open ,208
+487,2025-05-01,2.0,37.43,74.86,grocery,Chicago,f-u823,True, VIP ,220
+488,2025-05-02,3.0,9.76,29.28,home,LA, T-H559 ,True, VIP ,190
+489,2025-05-03,4.0,37.53,150.12,apparel,Dallas, w-d113,True,,201
+490,2025-05-04,4.0,80.47,321.88,beauty,LA,J-C181,True,return window open ,167
+491,2025-05-05,5.0,64.16,320.8,electronics,NYC,m-w200,False, VIP ,160
+492,2025-05-06,5.0,76.33,381.65,beauty,NYC,U-O744,False, first-time buyer ,155
+493,2025-05-07,4.0,80.4,321.6,grocery,Dallas,E-H282 ,False,  ,219
+494,2025-05-08,4.0,25.14,100.56,beauty,LA, f-i324,True, first-time buyer ,190
+495,2025-05-09,2.0,92.76,185.52,home,LA, U-H874,False,coupon used ,144
+496,2025-05-10,3.0,46.61,139.83,apparel,Dallas,e-u887 ,False,,198
+497,2025-05-11,1.0,65.71,65.71,electronics,LA,U-P785,True,  ,163
+498,2025-05-12,2.0,5.22,10.44,apparel,LA,M-W378,False, VIP ,250
+499,2025-05-13,5.0,99.37,496.85,electronics,LA,Z-H621 ,False,,183
+500,2025-05-14,3.0,31.69,95.07,apparel,LA,A-M280 ,True,,220
+501,2025-05-15,1.0,10.9,10.9,electronics,Dallas, Y-D871 ,False,  ,233
+502,2025-05-16,4.0,48.53,194.12,beauty,Chicago,F-Z176,False, VIP ,171
+503,2025-05-17,5.0,17.26,86.3,grocery,Miami,A-N769 ,True,,202
+504,2025-05-18,5.0,,97.35,grocery,Dallas,S-O559,False,,217
+505,2025-05-19,2.0,,130.14,electronics,NYC, N-K780,False,coupon used ,203
+506,2025-05-20,3.0,42.33,126.99,home,LA,v-h505,False,coupon used ,211
+507,2025-05-21,3.0,92.58,277.74,home,LA,C-Y242 ,False,,160
+508,2025-05-22,2.0,35.32,70.64,home,Chicago, c-m775,False,coupon used ,217
+509,2025-05-23,2.0,73.99,147.98,electronics,LA,O-R667,False,,185
+510,2025-05-24,2.0,48.8,97.6,grocery,Miami,W-A517,False,,210
+511,2025-05-25,5.0,67.7,338.5,home,LA,K-H435 ,False,coupon used ,228
+512,2025-05-26,4.0,61.97,247.88,apparel,Chicago,u-u409,False, first-time buyer ,220
+513,2025-05-27,5.0,49.91,249.55,electronics,NYC,x-c532,True,  ,210
+514,2025-05-28,5.0,95.26,476.3,electronics,Miami, W-C335,False,coupon used ,219
+515,2025-05-29,5.0,37.56,187.8,grocery,Miami, n-v353 ,False,,221
+516,2025-05-30,1.0,21.84,21.84,home,Dallas,S-I350,False, first-time buyer ,245
+517,2025-05-31,5.0,69.42,347.1,electronics,LA,N-H111 ,False,,796
+518,2025-06-01,1.0,85.37,85.37,home,NYC, R-O934 ,False,coupon used ,205
+519,2025-06-02,3.0,8.82,26.46,beauty,Dallas,o-f312 ,True,,228
+520,2025-06-03,3.0,47.72,143.16,home,Chicago, N-B248,True,  ,185
+521,2025-06-04,2.0,89.79,179.58,home,Miami, L-A235,True,  ,160
+522,2025-06-05,1.0,76.21,76.21,grocery,Dallas,Q-C988 ,True, VIP ,215
+523,2025-06-06,1.0,99.22,99.22,home,Chicago,t-e528,False,,194
+524,2025-06-07,5.0,55.48,277.4,electronics,Miami,x-s393,True,,164
+525,2025-06-08,2.0,67.7,135.4,grocery,Miami,P-H463 ,True,coupon used ,215
+526,2025-06-09,2.0,33.74,67.48,grocery,Chicago,C-B179,True,coupon used ,243
+527,2025-06-10,5.0,95.02,475.1,electronics,NYC,P-A381,False, VIP ,151
+528,2025-06-11,1.0,39.8,39.8,electronics,NYC,i-m323 ,False,return window open ,231
+529,2025-06-12,5.0,,375.8,electronics,Chicago, A-V822,True,return window open ,124
+530,2025-06-13,5.0,43.3,216.5,electronics,Chicago,b-i152,True,,188
+531,2025-06-14,3.0,58.37,175.11,grocery,NYC,p-b482,True,,255
+532,2025-06-15,1.0,73.38,73.38,electronics,NYC,Y-F810,True,return window open ,190
+533,2025-06-16,1.0,53.35,53.35,electronics,Dallas,N-M849,True,,203
+534,2025-06-17,2.0,91.17,182.34,home,Dallas,l-e560,True,return window open ,223
+535,2025-06-18,3.0,44.83,134.49,electronics,NYC,C-Z300,True,return window open ,149
+536,2025-06-19,1.0,66.47,66.47,electronics,Chicago, r-t402,False, first-time buyer ,202
+537,2025-06-20,3.0,37.52,112.56,electronics,NYC,b-i299 ,False,,202
+538,2025-06-21,1.0,43.77,43.77,electronics,Dallas,V-Y695,False,coupon used ,256
+539,2025-06-22,3.0,46.8,140.4,apparel,Miami, V-I363,True,coupon used ,163
+540,2025-06-23,1.0,16.95,16.95,home,Miami,Z-D666 ,True, VIP ,189
+541,2025-06-24,,13.71,54.84,beauty,Chicago, H-Y689,False,return window open ,172
+542,2025-06-25,1.0,68.41,68.41,apparel,Dallas, e-y944,True,  ,169
+543,2025-06-26,1.0,67.27,67.27,electronics,Miami,H-I432,False, VIP ,234
+544,2025-06-27,1.0,67.98,67.98,beauty,Dallas,U-P964,False, first-time buyer ,201
+545,2025-06-28,5.0,6.88,34.4,electronics,Chicago,f-e460,False, VIP ,183
+546,2025-06-29,1.0,36.02,36.02,beauty,Dallas, X-Q711 ,True,return window open ,184
+547,2025-06-30,3.0,23.79,71.37,apparel,Chicago,e-r694,False,coupon used ,183
+548,2025-07-01,3.0,78.92,236.76,home,Miami, B-S835,True,coupon used ,186
+549,2025-07-02,3.0,86.76,260.28,grocery,Chicago,F-O521,True,return window open ,162
+550,2025-07-03,4.0,28.43,113.72,beauty,Miami, t-s812,True, first-time buyer ,192
+551,2025-07-04,,68.45,342.25,apparel,NYC, P-O419 ,False,,189
+552,2025-07-05,2.0,17.29,34.58,apparel,NYC,j-v541 ,False, VIP ,177
+553,2025-07-06,5.0,31.14,155.7,home,NYC, R-E549,True,coupon used ,205
+554,2025-07-07,2.0,18.17,36.34,beauty,Chicago,q-m733 ,True, VIP ,207
+555,2025-07-08,5.0,31.93,159.65,apparel,Dallas, o-k655,False,coupon used ,183
+556,2025-07-09,3.0,69.1,207.3,apparel,LA,N-N170,False,coupon used ,196
+557,2025-07-10,,91.48,365.92,beauty,NYC,C-D827,True,coupon used ,265
+558,2025-07-11,5.0,24.24,121.2,grocery,Miami,g-i781,True,return window open ,264
+559,2025-07-12,4.0,56.5,226.0,electronics,Dallas, N-Y193,False,coupon used ,168
+560,2025-07-13,5.0,71.63,358.15,apparel,Dallas,d-c964 ,False, VIP ,173
+561,2025-07-14,3.0,95.53,286.59,electronics,Chicago,M-Q693,False,  ,168
+562,2025-07-15,1.0,62.96,62.96,electronics,Chicago, D-R176,True,  ,232
+563,2025-07-16,3.0,29.24,87.72,apparel,NYC, u-m541 ,True,,188
+564,2025-07-17,1.0,64.42,64.42,beauty,NYC,C-A851 ,False,,207
+565,2025-07-18,5.0,35.45,177.25,beauty,Miami, C-A351,True,  ,260
+566,2025-07-19,2.0,97.73,195.46,grocery,LA,Q-H938 ,False, VIP ,200
+567,2025-07-20,2.0,42.97,85.94,apparel,Dallas,F-C476,True,,221
+568,2025-07-21,2.0,70.12,140.24,electronics,Dallas, J-C303 ,False,  ,216
+569,2025-07-22,4.0,7.21,28.84,beauty,LA,I-E420 ,False,,182
+570,2025-07-23,3.0,43.01,129.03,grocery,LA,F-E571,False,,232
+571,2025-07-24,5.0,88.14,440.7,beauty,Dallas,T-V718 ,False,,175
+572,2025-07-25,3.0,62.97,188.91,home,NYC,R-Q934 ,False, first-time buyer ,240
+573,2025-07-26,2.0,47.17,94.34,beauty,Chicago, G-A275,True, first-time buyer ,182
+574,2025-07-27,1.0,93.91,93.91,grocery,Miami,R-Q963,True, VIP ,186
+575,2025-07-28,1.0,86.13,86.13,home,Dallas,S-D574,True, VIP ,167
+576,2025-07-29,2.0,35.61,71.22,beauty,Dallas, O-K214 ,False,return window open ,172
+577,2025-07-30,5.0,56.73,283.65,beauty,NYC,P-A932,False,,187
+578,2025-07-31,3.0,51.53,154.59,home,NYC, Y-C413,True, VIP ,127
+579,2025-08-01,5.0,65.06,325.3,home,LA,L-D657,True,coupon used ,193
+580,2025-08-02,1.0,36.74,36.74,electronics,LA, K-L727,True, first-time buyer ,185
+581,2025-08-03,1.0,28.2,28.2,home,NYC,O-M112,True,return window open ,224
+582,2025-08-04,5.0,91.7,458.5,beauty,Miami,V-J299,False,coupon used ,213
+583,2025-08-05,1.0,92.77,92.77,grocery,NYC,S-Q717,True,return window open ,179
+584,2025-08-06,1.0,85.12,85.12,grocery,Dallas,b-s391,False,return window open ,186
+585,2025-08-07,3.0,,293.79,beauty,Chicago,L-S108,False,,193
+586,2025-08-08,5.0,75.77,378.85,grocery,Dallas,t-p120,True,  ,245
+587,2025-08-09,4.0,77.64,310.56,apparel,LA,f-o842,True,coupon used ,175
+588,2025-08-10,1.0,77.45,77.45,beauty,LA,Z-M238 ,False,,178
+589,2025-08-11,5.0,50.66,253.3,beauty,Dallas,V-G190,False,  ,166
+590,2025-08-12,5.0,48.36,241.8,home,LA,W-M605,False,,156
+591,2025-08-13,5.0,27.82,139.1,electronics,Dallas, c-a206,True,coupon used ,209
+592,2025-08-14,5.0,66.26,331.3,grocery,NYC,P-Z687,False, VIP ,206
+593,2025-08-15,2.0,32.49,64.98,home,NYC,N-J589,False,return window open ,238
+594,2025-08-16,5.0,29.49,147.45,apparel,Dallas, Q-T683 ,False,,231
+595,2025-08-17,2.0,60.67,121.34,grocery,Dallas, W-Y541,False,,272
+596,2025-08-18,5.0,43.95,219.75,grocery,NYC,J-M799,False, first-time buyer ,198
+597,2025-08-19,3.0,25.79,77.37,grocery,Miami,n-w679,True,return window open ,192
+598,2025-08-20,4.0,82.53,330.12,apparel,NYC, r-m473,False,,161
+599,2025-08-21,4.0,86.75,347.0,grocery,Miami,t-d113,False,,221
+600,2025-08-22,4.0,20.93,83.72,beauty,Dallas,U-A345,False, VIP ,204
+601,2025-08-23,4.0,5.71,22.84,apparel,Miami,i-d218,False,return window open ,220
+602,2025-08-24,4.0,36.93,147.72,beauty,Miami,z-y114 ,False,,166
+603,2025-08-25,4.0,80.76,323.04,electronics,LA,a-m345,False, first-time buyer ,211
+604,2025-08-26,1.0,84.72,84.72,beauty,Dallas,m-i285,False, VIP ,206
+605,2025-08-27,5.0,18.14,90.7,home,LA,P-L168,False,return window open ,204
+606,2025-08-28,3.0,78.56,235.68,electronics,Chicago,b-g380,False, first-time buyer ,180
+607,2025-08-29,2.0,15.99,31.98,grocery,LA,L-W555 ,False,,236
+608,2025-08-30,3.0,42.06,126.18,beauty,Chicago, p-z260,True,  ,262
+609,2025-08-31,5.0,99.87,499.35,beauty,Miami, p-c345,True,coupon used ,167
+610,2025-09-01,5.0,23.3,116.5,beauty,Chicago,d-s118,False,coupon used ,222
+611,2025-09-02,5.0,19.63,98.15,apparel,NYC,H-I145 ,False,coupon used ,114
+612,2025-09-03,3.0,45.17,135.51,beauty,LA,g-b241,False,,220
+613,2025-09-04,4.0,63.87,255.48,beauty,Dallas,Q-X507 ,False,  ,144
+614,2025-09-05,2.0,93.63,187.26,electronics,Chicago,i-b698,False,,184
+615,2025-09-06,,98.18,392.72,beauty,Chicago,O-F808,False, VIP ,161
+616,2025-09-07,4.0,11.62,46.48,apparel,Chicago, t-a665 ,False,,194
+617,2025-09-08,2.0,18.11,36.22,electronics,LA, U-M654,True,,225
+618,2025-09-09,2.0,80.12,160.24,apparel,Chicago,E-P941,False, VIP ,144
+619,2025-09-10,1.0,30.71,30.71,apparel,Dallas,x-i329,False,,189
+620,2025-09-11,1.0,89.06,89.06,electronics,Miami,e-b817 ,False,return window open ,185
+621,2025-09-12,3.0,68.03,204.09,home,Dallas, A-D942,True,coupon used ,247
+622,2025-09-13,3.0,15.63,46.89,grocery,Miami,b-y610,False,return window open ,213
+623,2025-09-14,1.0,84.09,84.09,grocery,Miami,f-u855,True, VIP ,165
+624,2025-09-15,3.0,21.75,65.25,apparel,NYC,W-Y223,True, VIP ,186
+625,2025-09-16,4.0,45.23,180.92,home,LA, f-n890 ,False, VIP ,247
+626,2025-09-17,2.0,57.46,114.92,beauty,LA,S-O607,True,,221
+627,2025-09-18,,52.57,105.14,beauty,NYC,K-U299,False, first-time buyer ,172
+628,2025-09-19,2.0,70.19,140.38,grocery,NYC,B-Q155,False, VIP ,192
+629,2025-09-20,3.0,67.01,201.03,home,Dallas, l-l747 ,True,return window open ,193
+630,2025-09-21,2.0,99.24,198.48,home,LA, A-H487,False, first-time buyer ,184
+631,2025-09-22,4.0,99.95,399.8,apparel,NYC, M-M378,False,  ,149
+632,2025-09-23,2.0,54.06,108.12,apparel,LA,o-b450 ,False,  ,180
+633,2025-09-24,3.0,14.04,42.12,electronics,LA,N-F990,False, VIP ,242
+634,2025-09-25,2.0,74.15,148.3,beauty,NYC, H-T484 ,False,return window open ,189
+635,2025-09-26,1.0,,97.78,home,NYC,T-W170 ,True,,788
+636,2025-09-27,4.0,35.24,140.96,apparel,Dallas, p-c351,True,return window open ,204
+637,2025-09-28,2.0,48.81,97.62,apparel,Miami,g-c230 ,False,coupon used ,267
+638,2025-09-29,2.0,45.35,90.7,apparel,Chicago,L-C716,False, VIP ,200
+639,2025-09-30,4.0,9.88,39.52,electronics,Dallas, C-U819 ,False,coupon used ,233
+640,2025-10-01,5.0,68.87,344.35,beauty,Miami, Y-I856,True,  ,182
+641,2025-10-02,,38.57,154.28,beauty,Miami, t-i668,True,return window open ,192
+642,2025-10-03,5.0,79.81,399.05,home,NYC, H-A790,False,,200
+643,2025-10-04,5.0,84.05,420.25,home,Miami,r-z475,True,,177
+644,2025-10-05,3.0,83.02,249.06,apparel,NYC, R-L664,False,  ,194
+645,2025-10-06,4.0,44.58,178.32,home,NYC, P-U196,False,return window open ,227
+646,2025-10-07,2.0,35.55,71.1,apparel,Chicago,b-s583 ,True,,176
+647,2025-10-08,,76.14,228.42,beauty,Dallas,w-d601,True,coupon used ,200
+648,2025-10-09,3.0,81.13,243.39,beauty,NYC, y-u127 ,True,return window open ,221
+649,2025-10-10,5.0,51.67,258.35,home,LA,Z-O592,True,  ,175
+650,2025-10-11,5.0,89.84,449.2,beauty,LA,Z-P749 ,False,return window open ,233
+651,2025-10-12,3.0,18.67,56.01,electronics,LA,Y-F430,False,coupon used ,202
+652,2025-10-13,4.0,88.51,354.04,electronics,Miami,T-W589,True, first-time buyer ,195
+653,2025-10-14,2.0,14.13,28.26,apparel,LA, B-Y357,False,coupon used ,140
+654,2025-10-15,5.0,19.58,97.9,apparel,LA, M-K343,True,,189
+655,2025-10-16,3.0,55.71,167.13,beauty,NYC,G-C216 ,True,,211
+656,2025-10-17,3.0,11.41,34.23,apparel,NYC,F-W394 ,False,  ,252
+657,2025-10-18,4.0,10.02,40.08,apparel,NYC,V-X822,False,,217
+658,2025-10-19,4.0,5.05,20.2,home,Chicago, V-N941,False,coupon used ,234
+659,2025-10-20,1.0,46.45,46.45,grocery,Chicago,N-P671 ,True,coupon used ,164
+660,2025-10-21,2.0,78.59,157.18,apparel,Chicago, T-F661,False,  ,196
+661,2025-10-22,1.0,8.31,8.31,apparel,Miami,D-B651,False, VIP ,237
+662,2025-10-23,4.0,66.96,267.84,apparel,Chicago,F-Y527 ,False, first-time buyer ,173
+663,2025-10-24,1.0,83.2,83.2,home,NYC,w-m480,False,,229
+664,2025-10-25,2.0,20.96,41.92,home,LA, L-H658 ,False,,222
+665,2025-10-26,3.0,18.95,56.85,apparel,LA,o-s805 ,True,return window open ,208
+666,2025-10-27,4.0,86.78,347.12,apparel,Miami,M-A471,False,,190
+667,2025-10-28,3.0,83.2,249.6,apparel,LA,F-C608 ,False,,170
+668,2025-10-29,5.0,56.2,281.0,electronics,NYC,V-G522,True,,253
+669,2025-10-30,5.0,82.82,414.1,apparel,Dallas,t-l356,False, first-time buyer ,219
+670,2025-10-31,1.0,13.81,13.81,grocery,Chicago, R-J360,False, first-time buyer ,210
+671,2025-11-01,5.0,42.48,212.4,electronics,NYC, J-E170,False, first-time buyer ,188
+672,2025-11-02,4.0,75.09,300.36,electronics,Dallas,Q-J495,True,,201
+673,2025-11-03,4.0,,117.84,apparel,LA, Y-I740,False, VIP ,205
+674,2025-11-04,1.0,76.47,76.47,electronics,Miami, Q-N716,False,coupon used ,212
+675,2025-11-05,4.0,52.9,211.6,beauty,Miami,M-O986,False, VIP ,222
+676,2025-11-06,4.0,76.28,305.12,apparel,LA, h-w135,False,,177
+677,2025-11-07,3.0,49.14,147.42,grocery,Chicago, N-U783 ,True,,156
+678,2025-11-08,1.0,39.95,39.95,beauty,Chicago, J-H814,False, VIP ,203
+679,2025-11-09,3.0,25.82,77.46,apparel,Dallas, p-x492,False, VIP ,148
+680,2025-11-10,5.0,24.8,124.0,beauty,NYC,B-N354,False,coupon used ,190
+681,2025-11-11,4.0,76.39,305.56,beauty,LA,E-E421,False,  ,185
+682,2025-11-12,1.0,16.3,16.3,electronics,NYC, U-I713,False, first-time buyer ,215
+683,2025-11-13,5.0,13.17,65.85,grocery,Dallas,J-T875 ,False, first-time buyer ,259
+684,2025-11-14,5.0,21.75,108.75,apparel,NYC,L-V677,False,  ,142
+685,2025-11-15,1.0,21.66,21.66,home,Chicago,o-j562,True, VIP ,268
+686,2025-11-16,5.0,83.2,416.0,electronics,Dallas,L-E686 ,False,,193
+687,2025-11-17,3.0,42.86,128.58,electronics,Miami, T-E163 ,False,return window open ,210
+688,2025-11-18,3.0,99.09,297.27,home,LA,G-C646 ,False, VIP ,158
+689,2025-11-19,3.0,18.04,54.12,home,NYC,T-S137,True,  ,230
+690,2025-11-20,4.0,67.09,268.36,electronics,Dallas,F-N962,True,coupon used ,201
+691,2025-11-21,5.0,47.63,238.15,apparel,NYC,J-L899,True, first-time buyer ,198
+692,2025-11-22,4.0,42.33,169.32,beauty,NYC, p-r557 ,False,  ,142
+693,2025-11-23,5.0,88.13,440.65,electronics,Miami,X-V436,False, VIP ,202
+694,2025-11-24,5.0,97.68,488.4,grocery,Miami,G-U758,True,,225
+695,2025-11-25,,87.92,87.92,grocery,Dallas,P-D673,True,coupon used ,193
+696,2025-11-26,2.0,23.27,46.54,beauty,Miami,b-p734 ,False,,235
+697,2025-11-27,4.0,25.98,103.92,grocery,NYC,B-W563 ,True, first-time buyer ,234
+698,2025-11-28,3.0,67.33,201.99,apparel,NYC,t-u312,False,,181
+699,2025-11-29,1.0,32.46,32.46,grocery,LA,S-I165,True,,248
+700,2025-11-30,1.0,74.8,74.8,beauty,NYC,J-K354 ,False,,201
+701,2025-12-01,3.0,58.81,176.43,electronics,Miami,q-x575,True,,201
+702,2025-12-02,4.0,57.34,229.36,grocery,NYC,J-A481 ,False,return window open ,203
+703,2025-12-03,1.0,83.71,83.71,grocery,Chicago,H-N555 ,False, VIP ,202
+704,2025-12-04,1.0,72.5,72.5,home,Miami,l-d349,False,return window open ,121
+705,2025-12-05,1.0,,7.52,home,Dallas, I-X943,False,coupon used ,194
+706,2025-12-06,3.0,9.7,29.1,apparel,LA, V-B429,False,coupon used ,159
+707,2025-12-07,1.0,62.15,62.15,electronics,Chicago, k-a860,True,coupon used ,249
+708,2025-12-08,3.0,51.19,153.57,beauty,Chicago,I-I451,False, first-time buyer ,248
+709,2025-12-09,3.0,29.72,89.16,apparel,Dallas, N-F498 ,True,  ,226
+710,2025-12-10,3.0,44.77,134.31,home,Chicago,t-m642,False,  ,193
+711,2025-12-11,,77.0,308.0,grocery,LA,h-h336,False,,170
+712,2025-12-12,3.0,83.53,250.59,home,Dallas, Y-J297,False,coupon used ,180
+713,2025-12-13,,58.32,233.28,home,Miami,M-O440,False,,258
+714,2025-12-14,4.0,41.61,166.44,grocery,Chicago,R-O823,True,,179
+715,2025-12-15,5.0,,153.6,beauty,NYC,Y-Y229 ,True,coupon used ,129
+716,2025-12-16,4.0,54.58,218.32,grocery,Chicago, L-M493 ,True,,231
+717,2025-12-17,3.0,34.9,104.7,grocery,Miami,F-O704,False, VIP ,245
+718,2025-12-18,,58.59,175.77,grocery,Miami,T-R734,False,return window open ,250
+719,2025-12-19,2.0,69.28,138.56,beauty,Chicago,A-E490 ,False,,231
+720,2025-12-20,3.0,11.28,33.84,grocery,NYC, L-R173 ,False, first-time buyer ,236
+721,2025-12-21,1.0,5.1,5.1,beauty,Chicago,Z-W114,True,coupon used ,202
+722,2025-12-22,5.0,25.17,125.85,apparel,Miami,K-I522 ,False, first-time buyer ,138
+723,2025-12-23,5.0,89.98,449.9,beauty,Miami, R-E828 ,True,,201
+724,2025-12-24,1.0,66.4,66.4,home,NYC,n-j125,True,return window open ,219
+725,2025-12-25,4.0,21.34,85.36,electronics,LA, F-H897,False,  ,196
+726,2025-12-26,1.0,89.58,89.58,home,Chicago,I-P707,True,  ,195
+727,2025-12-27,4.0,49.65,198.6,electronics,NYC,n-w107,True,  ,171
+728,2025-12-28,1.0,50.23,50.23,apparel,Miami, c-p408,True, VIP ,170
+729,2025-12-29,3.0,93.88,281.64,grocery,NYC,K-D298,False, VIP ,255
+730,2025-12-30,4.0,10.65,42.6,beauty,Dallas,K-I953 ,True,  ,256
+731,2025-12-31,4.0,25.44,101.76,beauty,Miami,V-R598 ,False,return window open ,200
+732,2026-01-01,3.0,60.65,181.95,home,Dallas,D-I391,False,return window open ,208
+733,2026-01-02,5.0,23.57,117.85,apparel,Dallas,V-P349,True,return window open ,171
+734,2026-01-03,4.0,69.56,278.24,home,LA, K-S606,True,,219
+735,2026-01-04,2.0,25.34,50.68,grocery,Miami,q-i104 ,False, VIP ,253
+736,2026-01-05,4.0,14.42,57.68,grocery,Chicago,O-Q331,True,coupon used ,154
+737,2026-01-06,4.0,24.66,98.64,grocery,NYC,h-k248,False,  ,214
+738,2026-01-07,2.0,45.16,90.32,apparel,LA, Y-D657,False, VIP ,216
+739,2026-01-08,4.0,21.73,86.92,beauty,LA, F-J701,True, VIP ,216
+740,2026-01-09,5.0,17.8,89.0,home,Chicago,A-L519,False,,249
+741,2026-01-10,5.0,86.73,433.65,grocery,LA, T-A225,False, VIP ,261
+742,2026-01-11,,35.44,141.76,grocery,Chicago, Q-X433,False, VIP ,193
+743,2026-01-12,4.0,,157.08,home,Chicago,x-n857,False, VIP ,220
+744,2026-01-13,2.0,10.25,20.5,apparel,LA, l-a283,False,  ,203
+745,2026-01-14,4.0,38.95,155.8,grocery,Dallas, a-w246,False, first-time buyer ,181
+746,2026-01-15,2.0,30.16,60.32,home,LA, a-w200 ,False, first-time buyer ,208
+747,2026-01-16,3.0,63.0,189.0,apparel,Dallas,L-A834 ,False,return window open ,220
+748,2026-01-17,2.0,24.51,49.02,home,LA,G-E207,False, VIP ,207
+749,2026-01-18,2.0,89.39,178.78,home,Miami,X-J622,True, first-time buyer ,174
+750,2026-01-19,1.0,93.32,93.32,home,LA, D-N998,False,,186
+751,2026-01-20,5.0,14.48,72.4,apparel,NYC, w-s676 ,False,  ,186
+752,2026-01-21,1.0,15.2,15.2,beauty,NYC,f-l470,True,,175
+753,2026-01-22,1.0,15.96,15.96,home,Miami,D-P285,False, first-time buyer ,209
+754,2026-01-23,5.0,63.86,319.3,grocery,Miami,H-A101,False,coupon used ,213
+755,2026-01-24,3.0,16.59,49.77,electronics,LA,D-R239 ,False, first-time buyer ,229
+756,2026-01-25,3.0,85.98,257.94,grocery,Dallas,k-x956,False,coupon used ,174
+757,2026-01-26,4.0,76.66,306.64,beauty,Chicago,I-N229 ,True, VIP ,183
+758,2026-01-27,2.0,82.88,165.76,apparel,NYC,N-L117,True, VIP ,247
+759,2026-01-28,1.0,54.98,54.98,electronics,Chicago, N-H833 ,True, VIP ,195
+760,2026-01-29,4.0,99.68,398.72,apparel,Dallas,a-y476 ,False, VIP ,201
+761,2026-01-30,1.0,9.2,9.2,electronics,Miami,d-a420 ,True,,195
+762,2026-01-31,3.0,43.12,129.36,apparel,Miami,E-H745,False,  ,234
+763,2026-02-01,5.0,35.77,178.85,apparel,NYC,F-D570,True,,235
+764,2026-02-02,5.0,95.12,475.6,beauty,LA,C-W922,True,  ,233
+765,2026-02-03,2.0,59.8,119.6,apparel,Chicago,I-M520,False, first-time buyer ,201
+766,2026-02-04,4.0,81.59,326.36,apparel,NYC, O-X740,True,,174
+767,2026-02-05,4.0,21.18,84.72,beauty,Chicago,I-R890,False,coupon used ,258
+768,2026-02-06,3.0,97.97,293.91,beauty,NYC,I-O516,True, VIP ,226
+769,2026-02-07,1.0,52.37,52.37,home,NYC, M-N355,False,,186
+770,2026-02-08,2.0,51.9,103.8,grocery,NYC,O-F976,False, first-time buyer ,243
+771,2026-02-09,4.0,97.23,388.92,apparel,LA,I-O303,True, VIP ,184
+772,2026-02-10,5.0,41.17,205.85,grocery,Dallas,F-R135,True, VIP ,242
+773,2026-02-11,1.0,42.76,42.76,apparel,NYC, K-Z619 ,True,,244
+774,2026-02-12,4.0,60.55,242.2,electronics,Miami,A-O987,False,return window open ,172
+775,2026-02-13,5.0,17.16,85.8,apparel,LA, M-Y177 ,False, VIP ,217
+776,2026-02-14,5.0,35.5,177.5,electronics,NYC, Y-Y863 ,False,,223
+777,2026-02-15,3.0,23.35,70.05,apparel,LA,K-N846,True,  ,278
+778,2026-02-16,1.0,14.81,14.81,home,Dallas, C-L935,False,  ,178
+779,2026-02-17,2.0,87.28,174.56,home,NYC, S-D478,True,,243
+780,2026-02-18,5.0,60.99,304.95,apparel,NYC,D-G329 ,False,  ,201
+781,2026-02-19,5.0,39.07,195.35,electronics,Miami,F-W560,False,,163
+782,2026-02-20,4.0,43.82,175.28,grocery,Chicago,D-D228,True,,196
+783,2026-02-21,1.0,45.99,45.99,electronics,LA,W-K857,False,,200
+784,2026-02-22,1.0,65.15,65.15,beauty,Dallas,z-s696,True,  ,168
+785,2026-02-23,3.0,93.04,279.12,home,Miami,O-G534 ,True, VIP ,209
+786,2026-02-24,3.0,93.61,280.83,apparel,LA,Q-Z563,False,  ,229
+787,2026-02-25,1.0,42.19,42.19,electronics,Chicago,Q-Q740,False,,207
+788,2026-02-26,4.0,36.28,145.12,electronics,NYC,P-A570,False,,184
+789,2026-02-27,3.0,47.85,143.55,home,LA, O-G854,False, VIP ,196
+790,2026-02-28,1.0,58.95,58.95,grocery,Chicago,Z-T931,True,,200
+791,2026-03-01,1.0,48.87,48.87,electronics,NYC,T-W953,False,,207
+792,2026-03-02,3.0,67.58,202.74,electronics,Miami, C-Y657,False,  ,233
+793,2026-03-03,4.0,57.67,230.68,grocery,Miami, K-W767 ,True,,208
+794,2026-03-04,5.0,35.47,177.35,beauty,LA,Z-B379 ,False,  ,158
+795,2026-03-05,3.0,37.84,113.52,home,LA,K-S134,False,coupon used ,183
+796,2026-03-06,2.0,40.97,81.94,grocery,NYC, F-C459,False,coupon used ,205
+797,2026-03-07,5.0,13.99,69.95,beauty,Chicago, W-B883,True,return window open ,234
+798,2026-03-08,3.0,20.78,62.34,electronics,NYC,q-r220,False,return window open ,239
+799,2026-03-09,2.0,73.7,147.4,electronics,LA,O-M590,True,return window open ,253
+800,2026-03-10,3.0,41.96,125.88,electronics,Chicago,k-q272,True,coupon used ,204
+801,2026-03-11,1.0,25.38,25.38,home,Dallas,D-W485,True,  ,223
+802,2026-03-12,2.0,58.45,116.9,apparel,Chicago, J-B228,False,  ,156
+803,2026-03-13,3.0,76.78,230.34,home,LA, L-N760,True,,213
+804,2026-03-14,5.0,29.46,147.3,electronics,Dallas,Y-V828,False, first-time buyer ,168
+805,2026-03-15,4.0,,334.2,electronics,Dallas,H-L781,True,,198
+806,2026-03-16,4.0,93.11,372.44,home,Dallas,D-N733,False,,291
+807,2026-03-17,3.0,61.75,185.25,electronics,Chicago,L-M311,False,  ,209
+808,2026-03-18,1.0,68.55,68.55,electronics,Miami,Z-X576,True,coupon used ,174
+809,2026-03-19,2.0,9.99,19.98,apparel,LA,M-B194 ,False,,212
+810,2026-03-20,5.0,94.82,474.1,beauty,Miami,J-W436,True,return window open ,184
+811,2026-03-21,1.0,42.29,42.29,grocery,LA,r-v554,True,return window open ,171
+812,2026-03-22,5.0,92.77,463.85,apparel,LA,q-v700 ,False,coupon used ,263
+813,2026-03-23,4.0,60.0,240.0,beauty,Chicago,H-K187,False, VIP ,232
+814,2026-03-24,2.0,5.44,10.88,apparel,Chicago,z-n830,True, first-time buyer ,210
+815,2026-03-25,4.0,8.66,34.64,grocery,Dallas,P-J512,False, VIP ,188
+816,2026-03-26,5.0,69.64,348.2,electronics,LA, b-g892,True,,191
+817,2026-03-27,1.0,58.45,58.45,apparel,Miami, K-W574,False,return window open ,246
+818,2026-03-28,1.0,7.52,7.52,home,LA,x-n591 ,False,return window open ,209
+819,2026-03-29,4.0,75.63,302.52,beauty,Chicago,k-s722,False,,108
+820,2026-03-30,5.0,85.95,429.75,home,Miami,O-C837,False,,273
+821,2026-03-31,1.0,52.16,52.16,electronics,Chicago,P-U241,False,return window open ,205
+822,2026-04-01,4.0,49.25,197.0,electronics,Dallas, S-R559,False,,210
+823,2026-04-02,1.0,5.52,5.52,apparel,Miami,W-Z126,True,,233
+824,2026-04-03,4.0,79.73,318.92,electronics,Miami,d-d526 ,True,  ,214
+825,2026-04-04,4.0,36.42,145.68,apparel,Chicago,N-O831,False, VIP ,222
+826,2026-04-05,,88.48,88.48,home,Chicago,N-N878 ,True,,187
+827,2026-04-06,4.0,40.44,161.76,grocery,NYC, d-n354,False,,163
+828,2026-04-07,5.0,58.68,293.4,apparel,Chicago,R-B447 ,True, VIP ,208
+829,2026-04-08,5.0,30.68,153.4,beauty,Miami,D-M595,False, VIP ,243
+830,2026-04-09,1.0,20.26,20.26,electronics,Chicago,L-H455,True,,181
+831,2026-04-10,2.0,78.62,157.24,home,LA,I-Q260,False, VIP ,178
+832,2026-04-11,2.0,52.18,104.36,grocery,NYC, E-G374 ,False,coupon used ,237
+833,2026-04-12,3.0,55.97,167.91,home,LA,v-l463,True,,186
+834,2026-04-13,,96.71,96.71,beauty,LA,G-Q566,False,return window open ,188
+835,2026-04-14,5.0,96.54,482.7,electronics,Miami,G-B927,False,return window open ,189
+836,2026-04-15,4.0,86.29,345.16,beauty,Chicago,w-u589 ,True,coupon used ,198
+837,2026-04-16,5.0,22.82,114.1,electronics,NYC, w-s448,True, first-time buyer ,153
+838,2026-04-17,1.0,61.46,61.46,apparel,NYC, A-B693,False, VIP ,184
+839,2026-04-18,1.0,88.42,88.42,home,Miami, H-B794,False,,207
+840,2026-04-19,5.0,40.57,202.85,home,Miami, S-W487 ,True,,207
+841,2026-04-20,2.0,14.61,29.22,home,Dallas,U-H539,False, first-time buyer ,235
+842,2026-04-21,4.0,,328.16,apparel,NYC,Z-W295,True, first-time buyer ,255
+843,2026-04-22,,50.77,253.85,apparel,NYC, O-M877 ,True,,245
+844,2026-04-23,1.0,58.62,58.62,grocery,NYC,A-I879,False,coupon used ,227
+845,2026-04-24,1.0,98.3,98.3,home,Dallas,W-H257,True,  ,196
+846,2026-04-25,1.0,62.69,62.69,apparel,Dallas,e-r411,True,,181
+847,2026-04-26,1.0,45.37,45.37,beauty,Miami, d-c344,False,,201
+848,2026-04-27,1.0,40.15,40.15,grocery,NYC,R-K929 ,True,return window open ,218
+849,2026-04-28,5.0,44.67,223.35,beauty,NYC, p-i158 ,True, first-time buyer ,225
+850,2026-04-29,4.0,,65.0,grocery,Miami,B-E286,False, VIP ,219
+851,2026-04-30,5.0,80.5,402.5,beauty,Miami, E-J383,False, VIP ,196
+852,2026-05-01,5.0,84.58,422.9,electronics,Dallas,P-N603,False,  ,224
+853,2026-05-02,5.0,32.02,160.1,electronics,NYC,G-R323 ,False,  ,238
+854,2026-05-03,2.0,33.86,67.72,grocery,NYC, R-C582 ,False,coupon used ,226
+855,2026-05-04,2.0,88.06,176.12,apparel,NYC, k-w771 ,True,  ,199
+856,2026-05-05,5.0,7.28,36.4,beauty,Dallas,P-W844,False, first-time buyer ,175
+857,2026-05-06,2.0,54.44,108.88,grocery,Miami,m-r189,True,  ,174
+858,2026-05-07,1.0,49.05,49.05,electronics,Dallas,J-Y224,True,return window open ,180
+859,2026-05-08,4.0,70.56,282.24,grocery,LA, i-l185,False,,208
+860,2026-05-09,5.0,20.52,102.6,apparel,Dallas, s-v918 ,False,,216
+861,2026-05-10,5.0,68.49,342.45,apparel,NYC,n-s686,False, first-time buyer ,158
+862,2026-05-11,5.0,40.79,203.95,beauty,Miami,P-O577 ,True,,185
+863,2026-05-12,1.0,63.78,63.78,grocery,Miami, p-e811,True, first-time buyer ,207
+864,2026-05-13,4.0,8.81,35.24,beauty,Dallas,F-O626,False,,173
+865,2026-05-14,5.0,48.86,244.3,beauty,Miami,X-X311,False,  ,213
+866,2026-05-15,4.0,54.61,218.44,beauty,Chicago, O-Z558,False,return window open ,191
+867,2026-05-16,5.0,25.36,126.8,apparel,Chicago, S-L732,True,  ,178
+868,2026-05-17,5.0,18.26,91.3,home,LA, w-g132,True,,202
+869,2026-05-18,3.0,22.91,68.73,grocery,Miami,Y-T645 ,False,coupon used ,212
+870,2026-05-19,1.0,37.69,37.69,beauty,Dallas,R-B546 ,False,coupon used ,175
+871,2026-05-20,3.0,14.2,42.6,electronics,NYC,U-D162,True,,193
+872,2026-05-21,,95.0,190.0,electronics,Miami, M-O336 ,True,coupon used ,214
+873,2026-05-22,1.0,43.47,43.47,home,NYC,T-Z503 ,True, first-time buyer ,177
+874,2026-05-23,1.0,81.85,81.85,apparel,Chicago,I-I408 ,True, VIP ,150
+875,2026-05-24,4.0,97.57,390.28,beauty,NYC,s-l360 ,False, VIP ,154
+876,2026-05-25,3.0,12.67,38.01,beauty,Dallas,C-I683,True,coupon used ,187
+877,2026-05-26,3.0,66.91,200.73,beauty,Chicago, x-l463,False, VIP ,160
+878,2026-05-27,4.0,87.78,351.12,grocery,Chicago,G-A547 ,False,return window open ,190
+879,2026-05-28,3.0,65.25,195.75,electronics,Dallas,R-P817,False, first-time buyer ,250
+880,2026-05-29,,45.76,183.04,electronics,Dallas,a-p183 ,False, first-time buyer ,159
+881,2026-05-30,1.0,45.95,45.95,home,LA, e-i423,True,coupon used ,192
+882,2026-05-31,5.0,8.41,42.05,grocery,Miami,Z-G165 ,True,coupon used ,264
+883,2026-06-01,3.0,55.79,167.37,apparel,Chicago,V-T933,True,,212
+884,2026-06-02,1.0,99.39,99.39,apparel,NYC,F-E266,False, VIP ,189
+885,2026-06-03,5.0,96.08,480.4,electronics,NYC,D-B837,True,,195
+886,2026-06-04,4.0,8.84,35.36,apparel,LA,V-B271 ,True, VIP ,213
+887,2026-06-05,1.0,72.05,72.05,electronics,Dallas, Z-W391 ,True,  ,251
+888,2026-06-06,1.0,33.67,33.67,electronics,Chicago,e-j646 ,True, VIP ,184
+889,2026-06-07,1.0,90.78,90.78,electronics,LA,R-C847,False,return window open ,177
+890,2026-06-08,2.0,,18.58,home,Chicago,H-W259 ,False,return window open ,159
+891,2026-06-09,1.0,93.91,93.91,apparel,Miami, T-D291,False,coupon used ,203
+892,2026-06-10,4.0,84.56,338.24,home,Chicago, K-I892,False,,158
+893,2026-06-11,3.0,16.16,48.48,apparel,NYC,d-a389,True,,186
+894,2026-06-12,5.0,10.68,53.4,grocery,NYC, i-r288,True,  ,173
+895,2026-06-13,4.0,84.3,337.2,beauty,Chicago,o-s768 ,True,,232
+896,2026-06-14,4.0,19.8,79.2,home,Chicago,u-t181,False,,185
+897,2026-06-15,3.0,55.82,167.46,apparel,Miami, A-G879 ,False, VIP ,212
+898,2026-06-16,1.0,92.0,92.0,electronics,Chicago,y-i887,True,,608
+899,2026-06-17,1.0,58.91,58.91,grocery,Dallas,Q-Y870,False, VIP ,204
+900,2026-06-18,4.0,42.74,170.96,home,Chicago,W-V365 ,True,coupon used ,164
+901,2026-06-19,1.0,47.28,47.28,apparel,LA,Y-A202,True,return window open ,187
+902,2026-06-20,1.0,11.0,11.0,home,Dallas, D-R482 ,False,return window open ,266
+903,2026-06-21,2.0,97.03,194.06,apparel,Dallas, C-V400 ,False,,228
+904,2026-06-22,5.0,34.51,172.55,electronics,Dallas,U-O962,False,,196
+905,2026-06-23,3.0,22.99,68.97,home,NYC,E-Q667,False,return window open ,296
+906,2026-06-24,4.0,32.17,128.68,beauty,Dallas,D-A948,True, first-time buyer ,173
+907,2026-06-25,3.0,96.62,289.86,beauty,LA,M-A775,False, first-time buyer ,235
+908,2026-06-26,1.0,13.96,13.96,home,Dallas, X-A742,False,return window open ,154
+909,2026-06-27,2.0,87.39,174.78,electronics,Dallas,U-E200 ,False,  ,193
+910,2026-06-28,1.0,72.25,72.25,home,Dallas, N-Z161 ,True, first-time buyer ,160
+911,2026-06-29,4.0,83.85,335.4,grocery,Miami, F-Q141,False,  ,208
+912,2026-06-30,1.0,97.71,97.71,home,Chicago,I-U633 ,True,,202
+913,2026-07-01,2.0,85.0,170.0,electronics,NYC,R-H281,False, VIP ,191
+914,2026-07-02,5.0,94.62,473.1,apparel,Dallas,E-Y989 ,False,return window open ,233
+915,2026-07-03,3.0,17.06,51.18,beauty,Dallas,N-F219 ,False, VIP ,183
+916,2026-07-04,3.0,80.6,241.8,electronics,NYC,A-X951,False,return window open ,210
+917,2026-07-05,3.0,56.84,170.52,electronics,NYC,I-A700,False,  ,225
+918,2026-07-06,4.0,56.63,226.52,home,LA,G-A195,True,,156
+919,2026-07-07,,90.4,180.8,electronics,Miami,r-c152,False,,178
+920,2026-07-08,4.0,97.32,389.28,beauty,Chicago,X-U455 ,False,  ,202
+921,2026-07-09,5.0,71.96,359.8,home,Miami,D-G404,False,,219
+922,2026-07-10,3.0,50.88,152.64,beauty,Miami, U-L383 ,True,return window open ,243
+923,2026-07-11,3.0,48.36,145.08,apparel,Chicago, R-M575,False,  ,194
+924,2026-07-12,1.0,41.7,41.7,apparel,Dallas,Z-U216,False,,191
+925,2026-07-13,2.0,39.35,78.7,beauty,LA,X-J216,False,  ,174
+926,2026-07-14,5.0,42.19,210.95,apparel,NYC,c-a724 ,True,,210
+927,2026-07-15,3.0,13.53,40.59,apparel,LA, t-k990,True, VIP ,191
+928,2026-07-16,2.0,12.36,24.72,electronics,Chicago,P-H346,False,coupon used ,192
+929,2026-07-17,3.0,79.09,237.27,beauty,NYC,C-T937,True, first-time buyer ,197
+930,2026-07-18,3.0,47.38,142.14,beauty,LA, G-T410 ,False,,217
+931,2026-07-19,,93.42,280.26,beauty,NYC,y-c401,True,,183
+932,2026-07-20,4.0,63.16,252.64,electronics,Dallas,O-U181 ,False,  ,177
+933,2026-07-21,2.0,8.34,16.68,beauty,Miami,I-B480,True,,213
+934,2026-07-22,4.0,19.96,79.84,beauty,Miami, I-Q547 ,True, VIP ,109
+935,2026-07-23,3.0,24.55,73.65,electronics,LA,V-K696 ,False,,182
+936,2026-07-24,5.0,97.69,488.45,home,Chicago, H-H242,True,  ,165
+937,2026-07-25,1.0,25.78,25.78,apparel,Miami,E-M269 ,True,,236
+938,2026-07-26,1.0,54.0,54.0,apparel,Chicago,O-I488,True,  ,187
+939,2026-07-27,3.0,93.94,281.82,beauty,LA,z-u162,True,coupon used ,183
+940,2026-07-28,3.0,97.83,293.49,apparel,LA, e-z228,False, VIP ,199
+941,2026-07-29,4.0,27.45,109.8,apparel,Dallas,G-V665,True, VIP ,182
+942,2026-07-30,3.0,9.67,29.01,grocery,Chicago, M-L957,True,  ,188
+943,2026-07-31,5.0,19.59,97.95,home,Miami,F-N615 ,False, first-time buyer ,203
+944,2026-08-01,3.0,11.02,33.06,home,Miami,Q-L230,False,coupon used ,187
+945,2026-08-02,1.0,23.54,23.54,electronics,NYC,G-U990 ,False,coupon used ,187
+946,2026-08-03,1.0,59.01,59.01,beauty,Dallas,D-O569 ,True, VIP ,170
+947,2026-08-04,5.0,91.68,458.4,electronics,LA,G-M744 ,False,coupon used ,165
+948,2026-08-05,1.0,56.04,56.04,grocery,Chicago,Y-K277,False,,202
+949,2026-08-06,5.0,64.47,322.35,home,LA,Y-J620,True, first-time buyer ,209
+950,2026-08-07,2.0,24.18,48.36,electronics,LA,N-O168,False, first-time buyer ,157
+951,2026-08-08,1.0,81.06,81.06,grocery,LA, K-R662,False, VIP ,223
+952,2026-08-09,2.0,63.69,127.38,grocery,NYC,V-L281,False, first-time buyer ,223
+953,2026-08-10,4.0,87.09,348.36,beauty,Dallas, f-u917,False,  ,229
+954,2026-08-11,3.0,95.14,285.42,apparel,NYC,R-V149 ,True,coupon used ,209
+955,2026-08-12,4.0,38.05,152.2,apparel,LA, R-L686,False,  ,219
+956,2026-08-13,4.0,13.61,54.44,home,NYC, S-X225,False,  ,266
+957,2026-08-14,3.0,26.46,79.38,apparel,NYC,f-e717,True,,191
+958,2026-08-15,4.0,46.59,186.36,beauty,LA, S-Y543 ,True, first-time buyer ,169
+959,2026-08-16,5.0,94.84,474.2,electronics,Miami,P-H969,True,coupon used ,154
+960,2026-08-17,3.0,40.94,122.82,grocery,Miami,W-O685,False,coupon used ,253
+961,2026-08-18,1.0,78.22,78.22,home,LA, E-H434 ,True,,253
+962,2026-08-19,3.0,,169.05,home,Chicago, p-l178 ,True,,172
+963,2026-08-20,,22.37,111.85,beauty,Miami,V-I635,False,coupon used ,178
+964,2026-08-21,2.0,35.47,70.94,grocery,LA, H-S496,False, first-time buyer ,190
+965,2026-08-22,5.0,67.05,335.25,electronics,Miami, t-c147,True,,237
+966,2026-08-23,3.0,68.92,206.76,home,NYC, C-V622 ,False,coupon used ,161
+967,2026-08-24,4.0,46.3,185.2,beauty,LA,S-X288,False,coupon used ,141
+968,2026-08-25,2.0,26.72,53.44,grocery,LA,p-o310 ,False,  ,265
+969,2026-08-26,5.0,73.58,367.9,apparel,NYC, F-O108,True, VIP ,209
+970,2026-08-27,1.0,21.04,21.04,beauty,Miami,B-S434,True,coupon used ,214
+971,2026-08-28,2.0,93.98,187.96,apparel,Miami,T-F296,False,,194
+972,2026-08-29,3.0,22.85,68.55,home,LA, G-T164 ,True,coupon used ,214
+973,2026-08-30,3.0,,45.57,electronics,Miami,m-f490,False,  ,155
+974,2026-08-31,3.0,52.28,156.84,grocery,Dallas,B-R297,True,return window open ,175
+975,2026-09-01,1.0,54.36,54.36,electronics,Miami,Z-H220,False,coupon used ,203
+976,2026-09-02,2.0,53.28,106.56,beauty,Miami,o-t519 ,False,,132
+977,2026-09-03,1.0,46.48,46.48,beauty,Chicago,Y-U156,False, VIP ,191
+978,2026-09-04,3.0,99.51,298.53,home,NYC, e-f990,False,coupon used ,189
+979,2026-09-05,2.0,51.2,102.4,apparel,Miami,F-Q523 ,False,,191
+980,2026-09-06,3.0,50.4,151.2,electronics,Dallas,P-M995,False,,183
+981,2026-09-07,3.0,45.07,135.21,apparel,Miami,P-H892,True, VIP ,170
+982,2026-09-08,4.0,11.35,45.4,electronics,Miami, U-P980,False, first-time buyer ,145
+983,2026-09-09,3.0,61.33,183.99,beauty,NYC,y-z587,False,  ,204
+984,2026-09-10,4.0,26.66,106.64,beauty,Chicago, V-A480,False,return window open ,191
+985,2026-09-11,3.0,65.57,196.71,home,NYC,D-Y747,False,return window open ,159
+986,2026-09-12,4.0,9.83,39.32,grocery,NYC,I-W172,True, VIP ,202
+987,2026-09-13,4.0,98.23,392.92,grocery,Miami,X-N855 ,False,,191
+988,2026-09-14,2.0,49.56,99.12,electronics,Miami, o-p390,False,return window open ,186
+989,2026-09-15,2.0,90.19,180.38,apparel,Miami,w-j106,False,return window open ,135
+990,2026-09-16,4.0,50.18,200.72,apparel,Miami, o-d313,False,,220
+991,2026-09-17,2.0,10.73,21.46,beauty,Dallas, b-o317 ,False,,163
+992,2026-09-18,3.0,83.11,249.33,beauty,Chicago,m-v112,False,  ,202
+993,2026-09-19,1.0,66.58,66.58,electronics,Miami,V-G701,True,,176
+994,2026-09-20,3.0,79.27,237.81,grocery,Chicago,R-S185,False, first-time buyer ,188
+995,2026-09-21,3.0,45.68,137.04,apparel,Dallas,D-T861,True, first-time buyer ,235
+996,2026-09-22,4.0,65.6,262.4,grocery,LA, F-T507,True,return window open ,216
+997,2026-09-23,3.0,86.34,259.02,electronics,Dallas, W-I745,True,,234
+998,2026-09-24,2.0,64.95,129.9,home,Miami,Z-K405,False,  ,210
+999,2026-09-25,5.0,38.03,190.15,beauty,Dallas,T-K218,True, VIP ,212
+1000,2026-09-26,3.0,67.94,203.82,apparel,Chicago,C-W262,False,,147
