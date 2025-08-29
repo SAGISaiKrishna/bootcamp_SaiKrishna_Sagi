@@ -1,0 +1,7 @@
+,dtype,missing,missing_pct
+date,datetime64[ns],0,0.0
+region,object,0,0.0
+age,float64,0,0.0
+income,float64,5,3.12
+transactions,int64,0,0.0
+spend,float64,3,1.88
